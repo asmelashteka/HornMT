@@ -115,11 +115,11 @@ Nureddin Mohammedshiek
 
 ### Project Leaders 
 
-Abel Aregawi, abel@lesan.ai 
+Abel Aregawi <abel@lesan.ai>
 
-Gebrekirstos G. Gebremeskel, gebrekirstos.gebremeskel@ru.nl
+Gebrekirstos G. Gebremeskel <gebrekirstos.gebremeskel@ru.nl>
 
-Asmelash Teka Hadgu, asme@lesan.ai
+Asmelash Teka Hadgu <asme@lesan.ai>
  
 ## License
 
