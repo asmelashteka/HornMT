@@ -10,8 +10,8 @@ The `HornMT` repository contains data and the associated metadata for the projec
 Afar	| aaf
 Amharic	| amh
 English	| eng
-Oromo	| dorm
-Somali	| Sam
+Oromo	| orm
+Somali	| som
 Tigrinya	| tir
 
 
