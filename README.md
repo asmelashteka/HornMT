@@ -83,44 +83,38 @@ Below is an example row.
 
 ### Afar 
 
-Mohammed Deresa and team 
-
+- Mohammed Deresa
+- Yasin Nur
 
 ### Amharic
 
-Tigist Taye
-
-Selamawit Hailemariam
-
-Wako Tilahun
+- Tigist Taye
+- Selamawit Hailemariam
+- Wako Tilahun
 
 ### Oromo
 
-Gemechis Melkamu
-
-Galata Girmaye
+- Gemechis Melkamu
+- Galata Girmaye
 
 ### Somali 
 
-Abdiselam Mohamed and team 
+- Abdiselam Mohamed
+- Beshir Abdi
 
 ### Tigrinya 
 
-Berhanu Abadi Weldegiorgis
-
-Michael Minassie
-
-Nureddin Mohammedshiek
+- Berhanu Abadi Weldegiorgis
+- Michael Minassie
+- Nureddin Mohammedshiek
 
 
 ### Project Leaders 
 
-Abel Aregawi <abel@lesan.ai>
+* Asmelash Teka Hadgu <asme@lesan.ai>
+* Gebrekirstos G. Gebremeskel <gebrekirstos.gebremeskel@ru.nl>
+* Abel Aregawi <abel@lesan.ai>
 
-Gebrekirstos G. Gebremeskel <gebrekirstos.gebremeskel@ru.nl>
-
-Asmelash Teka Hadgu <asme@lesan.ai>
- 
 ## License
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]

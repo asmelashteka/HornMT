@@ -59,6 +59,7 @@ A suicide bomber wearing an explosives belt kills at least 21 people, mostly Shi
 A large oil field is discovered off the coast of Brazil that could contain between 8 and 15 billion barrels.
 Three time surfing world champion Andy Irons dies from suspected dengue fever, one of five people on the ASP World Tour to suffer from the illness in the past three weeks.
 The United States Border Patrol finds a sophisticated tunnel between Tijuana in Mexico and Otay Mesa, California, used by drug smugglers.
+Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned.
 A study published by The Lancet medical journal describes how short blasts of radio waves to the kidney may help regulate blood pressure.
 US health insurers gave over $86.2million to the Chamber of Commerce last year for the purpose of opposing the health-care overhaul.
 A new species of ancient crocodile, Khoratosuchus jintasakuli, is identified from a fossil in Thailand.
@@ -202,6 +203,7 @@ The Buddha Memorial Center of Fo Guang Shan in Kaohsiung, Taiwan, housing a toot
 The Washington-based organisation Human Rights Watch accuses Syria of hiding hundreds of political detainees during a visit by Arab League monitors.
 At least two people are killed in attacks on bars in northern Kenya near the border with Somalia, with Islamist al-Shabaab militants possibly responsible.
 Up to 50,000 people flee their homes in a border area of South Sudan amid ethnic violence.
+Armed commandos will be ordered to protect endangered tigers in India's Bandipur and Nagarhole national parks.
 Alabama defeats LSU 21-0 to win the 2012 BCS National Championship, their second championship in three years, in the first shutout in BCS bowl history.
 The English Wikipedia will be shut down on Wednesday in protest against anti-piracy legislation proposed by the United States Congress.
 Twitter alters technology to enable country-specific censorship of messages.
@@ -450,20 +452,24 @@ The United Nations says that they have discovered a mass grave containing 75 bod
 Seven-time Formula One drivers' champion Michael Schumacher is reported to be in critical condition after brain surgery in Grenoble for a head injury suffered while skiing in the French Alps.
 Latvia becomes the 18th EU member state to adopt the euro despite public opposition.
 Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut.
+Alberta Health Services confirms first avian flu death in Alberta.
 U.S. sports personality and Basketball Hall of Famer Dennis Rodman defends his visits to North Korea after he is criticized by the family of an American detainee.
 Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra.
 Communitary forces take several towns in Mexican state of Michoacán trying to expel the Knights Templar Cartel forces, and prompting the intervention of Mexican Army against them.
 The United States returns 11th-12th century sculptures stolen by art thieves from temples in India.
 A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries.
 California Governor Jerry Brown declares a drought emergency and asks residents of the state to voluntarily conserve water.
+Monsoon rains cause flooding in the Indonesian capital Jakarta causing the evacuation of more than 30,000 people.
 The United States rejects the invitation of Iran by the United Nations in peace talks involving Syria.
 Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ,
 Scientists from the European Space Agency and other institutions detect the presence of water vapour on Ceres.
+Hong Kong orders the destruction of 20,000 chickens after the H7N9 bird flu strain is found in chickens imported from mainland China.
 Scientists warn that penguin populations may be declining due to extreme environmental conditions related to climate change
 In India, the first 8.9 km of the Mumbai Monorail is inaugurated.
 Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia.
 Fighting between Syrian rebels and government forces rages around the Aleppo Central Prison in the war-torn city of Aleppo, but it is unclear whether rebels control all or part of the facility.
 Civilians are evacuated from a rebel-held area of the Syrian city of Homs after more than 18 months under a government blockade.
+A measles outbreak from the Philippines has spread into Australia, Canada, Taiwan, and the United Kingdom.
 Venezuelan President Nicolás Maduro arrests opposition activists in reaction to an "attempted coup" against his government.
 Botswana ends diplomatic relations with North Korea following a UN report on the latter's human rights record.
 Chinese vessels reportedly harassed Filipino fishermen off the coast of the Philippines last January 27, according to the Philippine military.
@@ -602,6 +608,7 @@ Energy-rich Kazakhstan suspends Russian fuel and gas imports to protect its dome
 U.S. President Barack Obama signs an executive order declaring Venezuela a national security threat to the U.S.
 The United States Food and Drug Administration approves genetically modified potatoes and apples.
 The Opportunity rover completes a Martian marathon, the first time any vehicle has traveled more than 26.2 miles on the surface of another world.
+An American sailor who was lost for 66 days in the Atlantic Ocean is found by a German tanker.
 Burkina Faso culls 115,000 chickens over a bird flu scare.
 Kentucky U.S. Senator Rand Paul announces that he will seek the Republican nomination for the U.S. presidency in 2016.
 Benjamin Netanyahu demands that any final agreement on the Iranian nuclear program include a "clear and unambiguous Iranian recognition of Israel's right to exist."
@@ -628,6 +635,7 @@ India offers Nepal an additional billion dollars to help it recover from the Apr
 The European Union has reached agreement to share at least 40,000 migrants over two years. ,
 The Hellenic Parliament passes a package of economic reforms to end the current stage of the debt crisis.
 Nominations for the 67th Primetime Emmy Awards are announced with Game of Thrones receiving 24 nominations.
+The People's Republic of China releases 10 South African tourists held for allegedly distributing terrorist material.
 In golf, the final round of The Open Championship is played at the Old Course at St Andrews in Scotland with Zach Johnson winning a four hole playoff with Marc Leishman and Louis Oosthuizen. ,
 Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people.
 The Tunisian parliament approves a new anti-terror law that allows the death penalty for terrorists.
@@ -674,6 +682,7 @@ Haiti delays Carnival celebrations over concern that anti-government protests mi
 Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes.
 The LIGO Scientific Collaboration experiment announces the first direct observation of gravitational waves. , ,
 Canadian multinational aerospace and transportation company Bombardier Inc. is to cut 7,000 jobs worldwide over the next two years, including over a thousand jobs in the United Kingdom.
+Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration.
 ISIL militants cut off the Syrian Army's main supply route to the city of Aleppo and capture the village of Khanasir, according to the Syrian Observatory for Human Rights.
 The United States Centers for Disease Control and Prevention is investigating 14 cases where the Zika virus may have been sexually transmitted.
 North Korean leader Kim Jong Un orders nuclear weapons to be ready for use at any time.
@@ -688,6 +697,7 @@ Ethiopia claims that members of South Sudan's Murle people have killed 140 peopl
 Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union.
 Spain commemorates the 400th anniversary of the death of its most famous author Miguel de Cervantes.
 In basketball, the Golden State Warriors, the top seed in the ongoing NBA playoffs, announce that the NBA's reigning MVP, Stephen Curry, will miss at least two weeks with a sprained MCL.
+The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico.
 The death toll from the Kenya floods including the Nairobi building collapse rises to fourteen.
 The Football Federation of Kosovo becomes the 55th member of UEFA following a secret ballot at the 40th Ordinary UEFA Congress in Budapest.
 A Swedish court sentences Claver Berinkindi, a 61-year-old Swedish citizen originally from Rwanda, to life in prison for participation in the Rwandan genocide in 1994.
@@ -698,6 +708,7 @@ Reports claim that an Egyptian forensic official says that body parts recovered 
 A preliminary study by the National Toxicology Program finds that cellphone radiation has the potential to increase the risk of tumor growth in male rats.
 As of this day, local and central government are prohibited from making announcements in a way that could affect the outcome of the referendum.
 Association football icon Pelé announces that he will sell 1,500 lots of his possessions via Julien's Auctions, which will include his medals, trophies, jerseys, and diplomatic gifts.
+Haiti will redo its presidential election after findings of widespread voter fraud in last years voting.
 The World Health Organization advises women in areas where the Zika virus is prevalent to delay pregnancies.
 Scientists confirm a second detection of gravitational waves by LIGO.
 One of five Hong Kong booksellers who disappeared in 2015 says he was forced by Chinese agents into a confession of "illegal trading".
@@ -721,6 +732,7 @@ A new infection of the Zika virus spreads to the Philippines.
 American swimmer Ryan Lochte agrees to a 10-month suspension while his other colleagues get four.
 The Department of Health of the Philippines discover an additional two cases of Zika virus infections bringing the total to eight.
 The Cuban-born American arsonist who torched 87 people in March 1990 at The Bronx Happy Land fire, Julio González, dies in prison at the age of 61.
+Citing irreconcilable differences, Angelina Jolie files for divorce from Brad Pitt and seeks full custody of their six children.
 A triple suicide bomb attack north of Tikrit kills at least 11 and injures another 34 members of Iraqi security forces.
 The U.S. Consumer Product Safety Commission warns that Samsung washing machines may explode if washing heavy load items at high speeds.
 2016 FIFA U-17 Women's World Cup, the first ever FIFA women’s football tournament in the Middle East, kicks off in Jordan.
@@ -737,6 +749,7 @@ Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the N
 Scientists say warm seas around Australia's Great Barrier Reef have killed two-thirds of a 435-mile stretch of coral in the past nine months.
 American film actor and producer Kirk Douglas, one of the last living movie stars of the Golden Age of Hollywood, celebrates his 100th birthday.
 Cardell Hayes is found guilty of manslaughter by a Louisiana jury in the road rage shooting death of former New Orleans Saints star Will Smith.
+In Brooklyn New York, 2 brothers were stabbed, 1 fatally in a dispute after a school soccer match.
 A vaccine for the ebola virus is discovered to be 99.78%–99.87% effective.
 American actress Debbie Reynolds has a stroke and dies one day after her daughter Carrie Fisher's death.
 The Attorney General of Israel Avichai Mandelblit orders a criminal investigation of Israeli Prime Minister Benjamin Netanyahu for alleged corruption in two different cases.
@@ -796,6 +809,7 @@ A journalist for the British newspaper Financial Times is killed by a crocodile 
 The World Health Organization says that hunger around the world has risen as a result of war and climate change.
 Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others.
 U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program.
+The king of Saudi Arabia issues a decree allowing women to be issued driving licenses by June 2018.
 The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded.
 The Federal Communications Commission approves Google's plan to restore some cell phone service in hurricane-hit Puerto Rico with Project Loon balloons.
 The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein.
@@ -838,6 +852,7 @@ Divers in Thailand rescue four more boys from the cave Tham Luang Nang Non bring
 Iranian women post videos of themselves dancing to protest the arrest of Instagram blogger Maedeh Hojabri.
 The heat-related death toll in the Canadian province of Quebec rises to 70, with 34 of those occurring in Montreal.
 France knocks out Belgium from the World Cup, with France moving on to the final against either Croatia or England.
+Pakistan, Iran, China, and Russia agree on joint efforts against the Islamic State group in Afghanistan, in an effort to ensure peace and eliminate terrorism from the region.
 In data collected by NASA's Juno spacecraft, an INAF team discovers suggestions of a new volcano close to the south pole of Jupiter's moon Io.
 Iranian police arrest 46 people in fresh crackdowns on models and associated colleagues posting "immoral images" on Instagram.
 The White House announces $12 billion in bailouts for farmers and ranchers affected by recently imposed retaliatory tariffs.
@@ -864,6 +879,7 @@ A beaver is seen in Northern Italy on camera, a species that has not been seen i
 Carlos Ghosn, formerly the chairman of Nissan, is arrested again on suspicion of shifting personal losses to the company.
 U.S. President Donald Trump and First Lady Melania Trump make an unannounced post-Christmas visit to troops at the Al Asad Airbase in Iraq, their first visit to a combat zone since taking office.
 After a 56-day trek, British Army captain Lou Rudd becomes the second person to cross Antarctica alone and unaided, over two decades after the first solo crossing by Norwegian Børge Ousland.
+Yemen's Shiite rebels say they have given control of the port of Hodeida to the coast guard and local administrators.
 South Korean media reports that North Korean officials are expected to visit the United States to discuss a second summit between the two countries at an unspecified date.
 The death toll from floods and landslides in South Sulawesi, Indonesia, rises to 68, while six people are still missing.
 Pacific Gas and Electric Company files for Chapter 11 bankruptcy for its recent roles in the California wildfires.
@@ -884,6 +900,7 @@ Two people are dead, and two others were wounded in a drive-by shooting outside 
 Tiger Woods wins the Masters Tournament in Augusta, Georgia, his first major golf win in 11 years and his first win at the Masters since 2005.
 Apple Inc. and Google remove TikTok from their app stores in India after a high court in Madras ruled the app could expose children to sexual content and cyberbullying.
 John William King is executed by lethal injection by the state of Texas, 21 years after the murder of James Byrd Jr., for which he was sentenced.
+The death toll in cyclone-hit northern Mozambique has risen to 38, as aid workers struggle to reach the worst-affected areas.
 Efforts begin in Solomon Islands to refloat a ship after an oil spill in what the government says will be a "very difficult operation."
 Germany and the Netherlands suspend military training mission in Iraq citing escalating tensions in the region with Iran.
 Pope Francis urges ethnic Hungarians and Romanians to mend their differences toward a peaceful existence in one country.
@@ -915,6 +932,7 @@ The Supreme Court of India rules in favor of Hindus over a place of worship that
 An explosion at a fireworks factory in the town of Barcellona Pozzo di Gotto, Sicily, Italy, kills five people and injures two others.
 The Shanghai police department says that Wang is a conman who was convicted for fraud in 2016 and is being investigated for another case of fraud since April 2019.
 A Camair-Co plane is fired upon while attempting to land at Bamenda Airport, but the pilot manages to safely land the plane with no casualties reported.
+Former President of Bolivia Evo Morales lands in Argentina after being granted asylum.
 Despite the boycott attempt by Democratic Tsunami, El Clásico is played in Camp Nou, Barcelona, with important security measures.
 Twitter bans almost 6,000 accounts, alleging that they were "amplifying messages favourable to Saudi authorities" in a Saudi state-backed coordination.
 China announces the reduction of tariffs on 850 products and measures to open markets in several industries.
@@ -972,6 +990,7 @@ The Gambia announces that they have submitted a lawsuit against Myanmar for thei
 The Greek Navy's mine countermeasures vessel HS Kallisto is cut in two in a collision with a container ship.
 FIFA announces that the President Gianni Infantino tests positive for COVID-19.
 The Czech Police Forces announce that they will carry out random border checks with Austria as a preventive measure against terrorism.
+Baby Shark Dance, produced by Pinkfong, surpasses "Despacito" as the most-viewed video on YouTube.
 The Egyptian Football Association announces that Liverpool forward Mohamed Salah has tested positive for COVID-19 shortly before Egypt's 2021 Africa Cup of Nations qualifier match against Togo.
 Kosovo's parliament unanimously approves deploying the Kosovo Security Force on international peacekeeping missions, following a formal request by the United States Central Command.
 Twitter says that they have suspended over 70,000 accounts linked to the QAnon conspiracy since the Capitol storming.
@@ -1052,6 +1071,7 @@ The place has very few visible tourists coming to its shores.
 Head of the bureau, Gebremichael Meles, said that efforts to register Ashenda as an intangible world heritage is getting momentum.
 He noted that officials of the United Nations Educational, Scientific and Cultural Organization (UNESCO) were at Mekelle last year.
 The 14th National Flag day is observed in all corners of Ethiopia starting early in the morning today.
+The day was marked under the theme: “ New Beginning with Full Sovereignty,” at the House of Peoples’ Representatives.
 “This year’s Gondar Epiphany is colorful with increasing number of foreign tourists and Ethiopian-born citizens shown an increase appetite for coming,” said Sertsefire Sibhat, Tourism Ethiopia Deputy Director.
 He said that the government has given due attention to the tourism sector in a bid to increase revenue by creating conducive situation for sector actors including tour operators.
 Genet is a painter, a collage artist and a printmaker, who creates her own paper from natural fibers including teff.
@@ -1085,6 +1105,7 @@ In his speech made here on Monday while opening the Joint Session of the two Hou
 According to Samuel, the dam with a big reservoir will regulate a steady flow of water in the river and reduce risky floods that have occasionally been killing people, causing massive displacement, and loss of properties in Sudan.
 In Sudan, heavy rains and flooding during August and September 2021 have, for instance, affected more than 314,000 people.
 He further remarked that the milestones achieved in the planning and implementation of the annual initiative need to be duplicated in various sectors, facilitating Ethiopia’s inevitable prosperity.
+The PM congratulated all Ethiopians in all corners of the country for finalizing a successful Green Legacy season this year with 6.7 billion seedlings planted, surpassing the set target.
 According to the press release sent to ENA, heavy to very heavy rainfall (top 10 to 5 percent on record) is expected in regions of Al Qadarif and Sennar in Sudan, Gash-Barka and Debu in Eritrea, and parts of Tigray, western Amhara, and southern Afar.
 It added that total rainfall above 100mm is forecasted in these regions.
 In delivering opening remarks, State Minister H.E. Ambassador Redwan Hussien said the workshop demonstrates Ethiopia’s unwavering determination to be at the forefront of climate change issues in the international arena.
@@ -1148,6 +1169,7 @@ The Ethiopian delegation led by the Health Minister, Dr Amir Aman, is attending 
 The delegation is expected to submit two proposals that Ethiopia has prepared to be discussed and decided up on the meeting.
 A road run with the aim of promoting the tourism of Bale, in Oromia, has been held in the town of Bale Robe.
 Noting the varied tourist attractions of Bale, Mayor of Bale Robe, Gezahegn Dejene, says, apart from promoting tourism, the event will have a role in enhancing other commercial activities.
+Dubai Marathon champion Tirfi Tsegaye, who clocked a world-leading 2:19:41 earlier this year, and Tigist Tufa, who won the 2015 London Marathon and finished second in this year’s race, are the reserves for the women’s team.
 Ethiopian long distance running legend, Haile Gebrselassie, will be running a different race—he will be running for the presidency of the Ethiopian Athletics Federation (EAF).
 The election will be held on tomorrow in Addis Ababa. Haile will be representing Addis Ababa competing with other officials from regional states.
 Ethiopia have appointed former Adama City FC coach Ashenafi Bekele as the new man in charge of the men’s national team.
@@ -1184,6 +1206,7 @@ Design Week Addis Ababa is an internationally recognized design and innovation e
 According to Beserat Debebe, creator and writer of the comic, Jember is a character inspired by the life and experiences of young residents in Addis Ababa.
 Aman’s creation was informed by his friends’ and relatives’ job seeking experiences in the city.
 “He reflects the story of those that are in the transition period between their college life and adulthood. Cities like Addis typically have a high youth unemployment rate. This often leads to a feeling of disappointment and hopelessness for a lot of ambitious young Ethiopians.”
+Sewit disagrees with this statement.
 “Supply creates its own demand. People like me have given up on shopping. Even the mannequins outside the stores aren’t representative.”
 The experience can be irritating for the plus size/curvy/full-figured/voluptuous woman.
 Ethio Agri-CEFT, member of Midroc Investment Group, revealed preparations to install the largest edible oil processing complex in the country.
@@ -1215,9 +1238,8 @@ The Houses of Peoples' Representatives (HPR) is expected to elect a new Supreme 
 Two weeks ago, House Speaker, Abadulla Gemeda told Members of Parliament that his office has received a letter from the Office of the Prime Minister stating that the Prime Minister Hailemariam has accepted Tegene’s letter of resignation.
 “The Tana Forum is now recognized as the truly African Security Conference modeled on the Munich Security Conference.
 It has the goal of convening peace stakeholders to discuss issues of peace and security in an informal and relaxed environment,” Tedros, who served the Forum as master of ceremony, said.
-The western front of Mai Tsebri which was serving as a training and military command post for the terrorist group TPLF has been the target of an airstrike, According to Government Communication Service.
-Previous airstrike on Friday targeted a training base and a battle network hub of the TPLF terrorist group in Mekelle, the capital of Tigray Regional State.
 In his remarks after the signing agreement, Japanese Ambassador to Ethiopia Shinichi Saida commended the current geopolitical trends towards peaceful power transition taking shape in Africa.
+“I believe I can say, now is a time of fundamental change in Africa.
 Ethiopia experienced its first peaceful transition of power in its modern history, followed by South Africa and Zimbabwe”, Ambassador Saida added.
 According to the UK Renaissance Dam Diaspora Participation Coordination Council, members of the Ethiopian community had already pledged close to one million birr which brings the total to about 3 millions birr.
 The Council, comprising of Ethiopians from a variety of civic and development associations, religious groups, artist groups, professional associations, business organizations, renowned personalities, academics, youth and women associations and other pertinent groups, was launched on 8th October during its first meeting at the Ethiopian Embassy in London.
@@ -1264,6 +1286,7 @@ According to him, 34 institutions are providing services using digital technolog
 Digital Transformation Program Director General at Ministry of Innovation and Technology, Dr. Abiyot Bayou said, “The grant will support our ministry in guiding and enabling digital reform under the EoDB Programme.”
 He also stated that besides adding Bahirdar and Diredawa cities to the national business portal, the support will enable the ministry to facilitate the implementation of EoDB reform by allowing further digitalization and reform ownership of the project.
 The National Veterinary Institute of Ethiopia is preparing to manufacture veterinary drugs to substitute imported drugs, an official said.
+The Institute, the sole veterinary vaccine production center in Ethiopia, will start to produce drugs at the end of this year, Director General of the Institute Dr.Marta Yami told ENA.
 AIC Deputy Director-General Taye Girma told ENA that the center which aims to become a national center of excellence by establishing AI policy and creating conducive ecosystem for the private and public sector is facing two major challenges in general.
 According to him, almost all government institutions and private entities require AI applications to deliver effective services with the support of AI technology.
 President of the Association, Meaza Kitaw, said the association is now providing integrated sexual and reproductive health services including maternal and child health, family planning, screening and treatment.
@@ -1274,6 +1297,7 @@ Ministry’s Malaria Programs Officer, Dereje Dilu, told Walta Information Cente
 Out of the three hospitals, the referral hospital under construction in Gnignag has been completed only 75 percent of its construction phase so far according to the head of the regional health bureau, Oman Amelu (MDr.)
 According to the head, the reason behind the delay is related to the fleeing the contactor from the area.
 Red Crescent Society of the United Arab Emirates (UAE) has provided the Ethiopian Health Ministry with 50 ambulances.
+The ambulances worth 250 million Birr and seven of them are said to have arrived in Addis Ababa.
 Some 200,000 residents of Addis Ababa living in extreme poverty are going to be provided with support in the second phase of the food security program which will start tomorrow.
 In his media briefing today, Mayor Diriba Kuma said 200,000 citizens in 55 woredas of Addis Ababa will benefit from the program.
 Following the outbreak of the fatal Novel Coronavirus – now renamed COVID-19 by the World Health Organization (WHO) – Ethiopian Airlines announced that it has stepped up passenger screening and aircraft disinfection process at the Addis Ababa Bole International Airport.
@@ -1403,13 +1427,12 @@ The historic deal was signed by Mohamed HamdanDaglo, deputy chief of the militar
 The signing ceremony was witnessed by PM Abiy, SalvaKiir, President of South Sudan and other Heads of States from neighboring countries.
 Soleyana Shemeles, the Communications Advisor to the NEBE, told The Reporter that “the NEBE designed all materials to be printed in five languages including Amharic, Amharic/Oromiffa, Amharic/Tigrigna, Amharic/Afar, and Amharic/Somali.”
 The main materials being procured internationally, according to Soleyana, are voter registration book (voter list books), voter cards book, and plastic boxes with seals, to be used in the transport of materials to a secured storage facility at polling stations for overnight stays, voter registration forms, and voter registration stationary kits.
-The MP further stated that Parliamentarians put in a request to the executive branch of government to have OLF Shene, Tigray People’s Liberation Front (TPLF) and Benishangul-Gumuz Liberation Front designated as terrorist groups and for the government to notify the house of its decision.
 The closed sixth year fifth ordinary session also saw lawmakers approve the Defense Forces Amendment Proclamation.
 The House of Peoples Representatives has approved the state of emergency that was referred to it by the Council of Ministers.
-It is to be recalled that the Council of Ministers declared the State of Emergency 5/14 in a bid to protect the community and the nation at large from a security threat posed by the terrorist group.
 Ethiopia has done much in protecting biodiversity after the signing of the Rio Agreement in 1992, according to Ethiopian Biodiversity Institute.
 The institute has been diversifying efforts to improve the ecological system and conserving biodiversity during the period.
 UNDP Country director Louise Chamberlain said on her part that the goal of the plan can only be achieved with strong involvement of the people of Ethiopia and government leaders at all levels and across the country through strong partnerships.
+The NFSDP will ensure an increase in Ethiopia`s forest coverage to 20 percent in 2020 and 30 percent in 2025 and make forest a core sector in economic structural reforms.
 Oromia Environment, Forest and Climate Change Authority Deputy Director-General, Bona Yadessa said the authority will take corrective measures against the companies in the region which failed to implement the federal requirements.
 In this regard, the region will not only penalize companies but award gold, silver and bronze to the companies that respected the code of conduct and realize chemical and wastage usage as well as labor protection.
 The public parks that will be developed through this project will have lanes dedicated for bicycle riders, pure water and solar energy supply and recreational areas.
@@ -1466,3 +1489,542 @@ Eka Kotebe General Hospital, which incorporates a mental institution in its prem
 Since it began operation in 2017, the hospital has provided health services for 116, 029 patients, of which 25 percent are mental disabled persons, it was learned.
 A cornerstone has been laid today, to build the Ethiopia’s first specialized cardiac care center in the capital at a cost of 40 million Euro.
 Minister of Health, Dr. Amir Aman and The Netherland’s Ambassador to Ethiopia, Bengt Van Loosdrecht have laid the cornerstone to build the cardiac care center at Black Lion hospital.
+Gudaf Tsegay broke the women’s world record for the indoor 1500 metres on Tuesday after posting a time of three minutes, 53.09 seconds during a meeting in Lievin, France.
+Ethiopian Tsegay beat by more than two seconds the previous record set by her compatriot Genzebe Dibaba in Karlsruhe in 2014.
+“I’m very happy to set a world indoor record. I have been training really hard and I set myself a target to break the world indoor record,” Gudaf Tsegay told the World Athletics website.
+Athlete Lena Hailu also won the French Indoor Championships in the 3000 meter while Athlete Habtam Alemu finished second in the French 800 meter.
+The first Great Ethiopian Run in North America is scheduled to take place in Minnesota, USA, on the 4th of July 2020.
+The Great Ethiopian Run scheduled to take place for the first time outside Africa is also the 1st edition in the US.
+In an exclusive interview with ENA, Great Ethiopian Run General Manager Ermias Ayele said preparations are being finalized to celebrate the event together with the Ethiopian Diaspora residing in USA and around the world.
+The International Federation of Association Football (FIFA) will hold its 70th congress in Addis Ababa next year.
+The FIFA Congress, the most-critical gathering of international football’s governing body, used to assemble every two years.
+According to chief of staff of the African Union chairperson, Ambassador Abdoulaye Diop the next congress will take place at the AU’s headquarters in Addis Ababa in May 2020.
+This year’s 18th Great Ethiopian Run has grown to become a major street festival in Africa attracting thousands locals and foreign tourists every year.
+On today, thousands people have taken to the streets of Addis Ababa to take part in Africa’s biggest road race, a challenging 10km run at 10,000ft above sea level.
+On the day, a huge variety of runners from all age groups and fitness levels participated, it was indicated.
+The Ethiopian National Football Team has qualified for the Africa Cup of Nations (CAF) today.
+Ethiopia qualified for CAF after the match between Niger and Madagascar ended in a draw, while Cote d’Ivoire beat Ethiopia 3 to 1.
+Letesenbet smashed the world record at the Valencia Half Marathon Trinidad Alfonso EDP, clocking 1:02:52 on her debut at the distance at the World Athletics Elite Label road race on Sunday.
+Competing in the same Spanish city where she broke the world 5000m record last year, Gidey took more than a minute off the previous mark of 1:04:02 set by world marathon champion Ruth Chepngetich earlier this year.
+Ethiopian-Israel golfer Asher Iso, without taking anything away from the extraordinary achievements of the other winners this week, has championed Israel Men’s Masters Tournament at the Caesarea Golf Club.
+Asher, a dedicated staff member of the club, immigrated to Israel from Ethiopia in 1991 and first came to the golf club 27 years ago.
+In Betking Ethiopia Premier League match, happened in Hawasa, the champions Fasil Kenema beat Hadiya Hosaena 3 to 1.
+Fekadu Alemu has got a hat-trick in the game by scoring all the three goals for Fasil Kenema while Baye Gezahegn netted the only goal of Hadya Hosaena.
+In the league’s closing encounter of the first week, Sebeta Ketema and St. George drew nil.
+The Ethiopian national anti-doping office said it has begun doping tests on athletes.
+More than 150 elite athletes are undergoing the two-day tests being done in partnership with world athletics integrity unit, it said.
+According to EBC, more than 22 Ethiopian experts are taking part in the anti-doping tests.
+Hadijah Nandago gave Uganda a 1-0 lead after 26 minutes before skipper Fauzia Najjemba made it 2-0 on 40 minutes when substitute goalkeeper Demelash Banchayehu failed to hold the ball.
+After the break, Ethiopia’s Ridet Assrasahang pulled one back on 50 minutes.
+Substitute Ariet Odong made it 2-2 after the 78th minutes before the referee sent off Ethiopia’s coach Firew Hailegebral.
+But the Ethiopian team did not give up and scored the winning goal through Turist Lema on 82 minutes.
+The South African National Football team has arrived in Bahir Dar for FIFA 2022 World Cup Qualifiers match they have tomorrow with their Ethiopian counterpart.
+As goal.com reported a few days ago, their Belgian Coach, Hugo Broos, said that their game with Ethiopia is “crucial.”
+According to this outlet, ‘Broos has challenged his side to “do everything to get six points” from back-to-back matches against Ethiopia as the qualifiers enter top gear.’
+South African, the Bafana Bafana, is leading the group by a point ahead of Ghana, the Black Stars; and Ethiopia, the Walia Antelopes, placed third.
+he extraordinary spate of athletics world records in the super spikes era continued on Tuesday as Letesenbet Gidey smashed the two-day-old women’s 10,000m best, set by Sifan Hassan on Sunday, by more than five seconds.
+It was the latest in a long line of staggering performances in the game-changing technology, which is reckoned to improve performance by between half a second and a second a lap.
+Gidey, who was running on the same Hengelo track where Hassan set her world record, always looked confident.
+For much of the race – which doubled as the Ethiopian trials – she churned out 72-second laps before powering home in a final lap of 63 seconds, despite having to weave between other runners, to finish in 29:01.03.
+Following the qualification of the Ethiopian men's national team (Walias) to the 2022 African Cup of Nations (AFCON) in Cameroon after an eight year absence from the tournament, over 500 fans and 25 sports journalists are set to attend the event to be held from January 9 – February 6, 2022 in Cameroon.
+The Secretary General of the Ethiopian Football Federation (EFF), Bahiru Tilahun, and the owner of Sisay Aderisse Promotion, Sisay Aderisse, held a joint press conference on Tuesday, December 7, 2021 at Sheraton Hotel, where it was stated that fans will be able to attend the event.
+A package of three-day visits, a ten-day return ticket (ten days depending on the result) was prepared and additional packages would be discussed accordingly.
+Following the request by the Ethiopian Football Association to have its World Cup qualifier against Ghana in South Africa, the Ghana Football Association asked the world football governing body last Friday to ensure that there is fair play in the last two matches.
+Ghana and South Africa are separated by one point going into the last two group matches.
+It is, therefore, shocking that the Ethiopian Football Association would seek to take their home match against Ghana to South Africa.
+President of the Ethiopian Olympic Committee (EOC), Ashebir Woldegiorgis (MD), announced that kenenisa Bekele will represent Ethiopia and compete in the coming Tokyo Olympics, scheduled to be held from July 23 to August 8, 2021.
+In his comments, Ashebir acknowledged that the Ethiopian Athletics Federation (EAF) has the mandate to select the athletes.
+“Passing decision on who makes the cut is the responsibility of the Athletics Federation. Our main demand is to achieve results that will raise the flag of our country. So, we can’t stand by and watch when athletes who have one of the best times are left out of the competition due to improper practices,” Ashebir said.
+A runner who fled Ethiopia nearly a decade ago is preparing for Sunday's Tokyo Marathon with hopes of returning to Japan this summer as a member of the Refugee Olympic Team.
+Yonas Kinde, 39, who competed at the 2016 Rio de Janeiro Olympics, has been training this week with a university athletics team in Tokorozawa, near Tokyo, after receiving an invitation from Tokyo Marathon organizers to run in the elite division of the race.
+"I'm in good condition," he said during training on Thursday.
+"I hope the weather will be nice, and (I want) to find a good pace for me and record my fastest time at the Tokyo Marathon."
+The first Irrechaa Great Run is scheduled to take place in Addis Ababa on September 22, 2019
+During a press conference held on Thursday, Oromia Regional State Tourism Bureau stated that 50,000 runners and several elite athletes are expected to participate in the event.
+According to the organizers, the winners will be awarded with a prize.
+Ethiopian international referee Bamlak Tessema has been selected to officiate at the FIFA U-20 World Cup which is scheduled to be held in Poland from May 23 to June 25 2019.
+The FIFA referees committee has selected 27 referees, 42 assistants and 21 video assistants for VAR technology.
+The FIFA U-20 World Cup match officials’ capacity building preparation will focus on the wide range of topics, such as their reading of the game and football understanding, teamwork and the importance of obtaining the best position or angle.
+According to FIFA requirements, the referees should be at the right place at the right time to make the correct decision.
+Well, there were different Taekwondo competitions in Addis Ababa and its regions held by the Ethiopian International Taekwondo Association
+During my young age, I had a chance to watch these competitions and in 2004, I competed in the Addis Ababa club championships.
+After my debut competition,I have achieved several medals in all local tournaments.
+Following the resignation of my former instructor in 2008, I took a responsibility to manage Choi Hong Hi taekwondo club and since then, I have been working as an instructor.
+So, my good performances helped me to participate in international competitions across the world.
+The Ethiopian National Football Team has qualified for the Africa Cup of Nations (CAF).
+According to sources, Dawit won her first indoor competition in Prague in February 2014, running a time of 4:09.08 minutes.
+At the Rabat Meeting she established herself among the world’s top 1500 m runners with a win in 3:59.53 minutes.
+Letesenbet Gidey of Ethiopia smashed the world half marathon record with 1:02:52 at Valencia half-marathon, an average of 2:59 min/km!
+She took more than a minute off Ruth Chepngetich’s 1:04:02 in Istanbul last April.
+Second placed Yalemzerf Yehualaw again dipped under 1:04 (1:03:51) after her previous result of 1:03:44 at Antrim Coast half was not ratified due to a short course.
+Ethiopian Premier League Share Company has decided Mekelle 70 Enderta and Fasil Kenema football clubs to participate in the 2020/21 CAF continental club football competitions.
+Accordingly, Mekelle 70 Enderta, champion of the 2011 E.C. (2018/19) Ethiopian Premier League season, will represent Ethiopia in the CAF Champions League.
+The 22-year-old has now won her second league title in Europe, with her first the Swedish Elitettan crown in the colours of Kungsbacka DFF in 2018 which she scored three goals in eight games to power her side to the Damallsvenskan for the first time, it stated.
+Before joining for Melania Bajada’s team, the striker had returned home from Sweden to help Adama City to win its first-ever Ethiopia Women’s Premier League title and won top scorer for the fourth time, scoring 18 goals despite joining in the mid-season.
+The festival opened to local and international filmmakers and film enthusiasts alike at Vamdas Cinema and Entertainment in partnership with the Embassy of Brazil in Addis Ababa and the Association of Black Audiovisual Professionals on Wednesday July 18.
+The three-day festival kicked off with Carolina, a 2003 short film about the life of black Brazilian author Carolina Maria de Jesus and her struggles with poverty included footage of her increased popularity once her book was published.
+Leza, a radio show on Sheger FM 102.1 hosted by Berhanu Digaffe, has been organizing Leza Awards for seven years now.
+Recognizing talent by a selection of musicians and filmmakers, it has been one of the platforms where local artistic excellence is celebrated.
+Leza, the organizer of the event, also paid tribute to prominent singer Zeritu Getahun who had passed away the previous day.
+Mulatu Astatke’s trailblazing album, Mulatu of Ethiopia, was officially rereleased on Friday May 19.
+Recorded in New York, the album from 1972 arrived at a time when Mulatu had begun to master the delicate fusion of styles needed to create Ethio jazz.
+The release of one of the most acclaimed artist Teddy Afro’s album, entitled “Ethiopia,” definitely is one of the stories that “broke the Internet” (went viral) among Ethiopians and the Ethiopian diaspora.
+On the one hand, the song “Ethiopia” was criticized for preaching the grand narrative of Ethiopian nationalism without deconstructing the historical injustice, thereby denying the existence of oppression.
+In his new work entitled "The Massacre of Debre Libanos Ethiopia 1937; the Story of One of Fascism’s Shocking Atrocities", the author yet again presents the events surrounding both the assassination attempt in Addis Ababa, Ethiopia on 19 February 1937, and the reprisal killings and massacre that occurred in the days and months that followed.
+The author in his book presents a traumatic and detailed account of the extent of the massacre, which resulted in the deaths of more than two thousand monks, priests, and local residents at the monastery.
+The comencement of Walta’s Televistion paves a way for an alternative platform that can market new ideas in a manner that can educate, inform and entertain the general public, watchers said.
+The Center plans to prepare content in different local, regional and international languages. However, the programs which are being aired are in Amharic.
+KUTU was formed as a result of a meeting in Addis Ababa between French violinist Théo Ceddaldi and Ethiopian new age singers Hewan Gebrewold and Haleluya Tekletsadik with band members Valentin Ceccaldi on bass, Akemi Fujimori on keyboards and Cyril Atef o
+The independent satellite channel is currently producing 12 different programmes, incorporating psychology, law, music and drama, the publication reported.
+This time around however, Festal Tigray was for the first time celebrated colorfully in Mekelle the capital city of Tigray National Regional State.
+The festival also included entertainment activities accompanied with musical extravaganza presented by renowned Tigrian musical artists such, as the late kiros Alemayehu and the late Iyasu Berhe and many other new talented musicians as well.
+Ethiopia’s first success at the Cannes Film Festival tells a simple tale, but the film’s director has set his sights on the world stage thanks to support from the French film industry.
+Having successfully premiered “Lamb” in the director’s home city of Addis Ababa earlier this month, the filmmakers have turned their attention to their next important release: in France on September 30.
+The Addis Ababa City Beautification, Park and Cemetery Development Agency announced that it will soon inaugurate six mulita-purpose parks in the city, which include features satisfying all age groups.
+These parks are designed to have swimming pools, basketball courtyards, amphitheaters and cafes, according to the Agency.
+MultiChoice Ethiopia, a South African company that operates the DStv satellite television service, announced plan to significantly increase its investment in Ethiopia.
+The company said in a statement that it is looking to extensively expand its reach, investment in people and infrastructure in Ethiopia.
+It is also planning to provide support to Ethiopian content and content creators including investing heavily in local content as part of its hyper local content strategy.
+During the event, artists performed traditional dances that demonstrated the beauty of the diverse nations, nationalities and peoples of Ethiopia.
+Ras Theater Director, Meron Teshale told ENA that art has a power to strengthen unity in diversity and show diversity as a source of peace and harmony.
+Poems, drama, music, and dance, among others, are important instruments to teach the people about the beauty of diversity with few words and through entertainment, she added.
+Gohe peace and unity award 2021 has been awarded for 11 eminent person,including gammo fathers, inter-religion council of ethiopia and ethiopian traditional leaders council in a colorful ceremony that took place on Sunday
+The award was given as symbol of their unwavering commitments towards promoting peace and unity in their localities and the country at large.
+With the celebration of the UNESCO registered Timket fesival approaching, restoration of Jan-Meda, the open field where the festival is celebrated, has been intensified, Addis Ababa City Deputy Mayor Adanech Abiebie said today.
+In an exclusive interview with ENA, the deputy mayor said besides being a place where Timket is celebrated, Jan-Meda is a place for hosting many social events and sports.
+Ambassadors of different countries to Ethiopia and various diplomatic corps have attended cultural music, dances and fashion shows on Saturday at National Theater.
+The show, which was colorfully staged in the event organized by Ministry of Culture and Tourism, hopes to capture and portray diverse cultural heritages, traditional music and fashion from country’s nations, nationalities and peoples.
+President Sahle-Work Zewde has met with the General Manager for Africa of CANAL+ Group who presented the company’s work in Ethiopia.
+CANAL+ Group has made a significant investment in the entertainment industry.
+President Sahle-Work appreciated the commitment of the company to incorporate Ethiopian content and content creators on the platform and highlighted the importance of using such platforms for education as well as entertainment.
+The second channel of Oromia Broadcasting Network (OBN), a regional broadcaster headquartered in Adama, has started trial transmissions today.
+The new channel, called ‘OBN Horn Of Africa’ as per the decision of the regional state, targets strengthening unity and fraternity among people in the east African region, according to Adisu Arega, head of social cluster with the rank of Deputy Chief Administrator of Oromia.
+The Meskel Square-Addis Ababa City Hall Project that mainly contains the refurbishment of Meskel Square is the most iconic public gathering space in the modern history of Addis Ababa that has been hosting several cultural, religious, political, entertainment and sports activities for more than 60 years.
+Meskel Square annually hosts the Meskel-Demera Religious Festival which has already been inscribed by UNESCO as world’s intangible heritage.
+The name Meskel derives from the Amharic term Holy Cross.
+President Sahle-Work Zewde received Imtiaz Patel, Chairperson of the Board of Multichoice Group.
+Multichoice Group has made sizable investments in Ethiopia both in improving access to the many information and entertainment products that they have but also in supporting local content creation in sports and entertainment.
+Fana television will migrate to SES satellite as of December 31st, 2020.
+Ethiosat is Ethiopia’s first-ever dedicated free-to-air (FTA) TV platform, hosted on SES’s NSS-12 satellite.
+Ethiosat currently delivers 65 channels to Ethiopian homes, with 16 of those channels already in high definition (HD) quality.
+KUTU was formed as a result of a meeting in Addis Ababa between French violinist Théo Ceddaldi and Ethiopian new age singers Hewan Gebrewold and Haleluya Tekletsadik with band members Valentin Ceccaldi on bass, Akemi Fujimori on keyboards and Cyril Atef on drums.
+The KUTU tour set out to embody the magic they have created through this alliance, with upcoming performances outside of Ethiopia and within Ethiopia as well.
+The set included multilingual music from within Ethiopia, incorporating love songs, breakup anthems and folk songs in different languages.
+Nowadays multiple skateboarding parks have been built in recognition of the culture after years of the youth skating in unauthorized and dangerous streets due to the unavailability of proper venues.
+Amongst the list of people and institutions responsible for the growing culture is ‘Kushineta skates.’
+“Kushineta is opening up its first store in megenagna and that’s a huge step forward,” said Yared, hoping the future is wide open for the industry.
+In an exclusive interview with FBC, a member of the Afro-Ukrainian hip hop trio Fo Sho, Betty Endale said that their group has a plan to promote immense tourism potentials of Ethiopia to the rest of the world.
+The Afro-Ukrainian hip hop trio consisting of the three Ethiopian-Ukrainian sisters, Bethlehem (Betty), Miriam and Siona Endale have already left an imprint on the Ukrainian hip-hop scene.
+“In Africa we are one, to show unity in diversity; we may have different borders like Ethiopia, Nigeria, Egypt, and Central Africa Republic but Africa is one.
+In our diversity there is a lot of unity among us, so we want to spread that unity,” he noted.
+Ethiopia will participate for the first time at the 2019 Cannes Film Festival in the African Pavilion, Tourism Ethiopia announced.
+Briefing journalists today, Tourism Ethiopia CEO, Lensa Mekonen said partnered with local and Diaspora film professionals, Ethiopia is ready to participate in the Film Festival which will be held in France next week.
+A few weeks after the controversial draft law establishing the Office of the Federal Attorney General got the approval of members of the parliament (MPs), the government has submitted yet another controversial draft law to provide for the computer crime.
+Ethiopia first introduced cybercrimes in the 2004 Criminal Code which penalizes only cybercrimes of ‘hacking’, ‘dissemination of malware’ and ‘denial of service (DoS) attacks’.
+Seven law enforcements officers and an unknown number of armed protesters were killed in the series of clashes that happened on Monday in West Arsi zone of the Oromia Regional State.
+According to the locals, the cause of the clashes an alleged ban of an Oromifa song that has a political content.
+They told The Reporter that the clashes started after police officers questioned why the banned song was played at a wedding ceremony.
+The report was prepared upon the request of the governments of Ethiopia and Sudan and describes the illegal activities that are taking place from the Horn of Africa via Libya to Europe as a “dangerous and organized illicit trade”.
+The 39-page report entitled, “Human Smuggling and Trafficking on the Horn of Africa-Central Mediterranean Route” was made public February 19, 2016 during a consultation meeting organized by the new ISSP office, which was opened in Addis Ababa.
+The stay-home protests are currently taking place in Gondar and in some parts of Bahir Dar.
+But as of Thursday, a wave of protester and unrest has been observed in Finote Selam and Bure, towns in West Gojam Zone of the Amhara Regional State, becoming the latest regions to join the mood of protest in the regional state.
+The ruling Ethiopian Peoples' Revolutionary Democratic Front (EPRDF) and opposition parties have recently put their differences aside and have agreed to come to a roundtable to find ways of redeeming the already tense political environment.
+The parties have so far been discussing on modalities of negotiation, which would serve them as a bylaw for their future dialogue.
+Nonetheless, the parties are finding it hard to agree on some points, which would be the legal framework.
+President Sahle-Work Zewde has been selected as one of the World’s Most Powerful Women of 2019 by Forbes.
+The President is the only African woman on the list.
+President Sahle-Work Zewde is a role model not only for Ethiopian women but women all around the world.
+Ahmed Shide for his part said “the Cooperation Framework is the planned support of the UN Agencies to the national development priorities of Ethiopia as shown in the Ten Years Perspective Plan and the Home Grown Economic Reform.”
+The Finance Minister hailed the signing of the cooperation framework which comes at a time when Ethiopia is undergoing a major strategic shift to embark on a transformational growth while fighting against the pandemic.
+The one-day exhibition is part of the annual celebrations to mark the 120th anniversary of the diplomatic relations between Ethiopia and the Russian Federation.
+Ethiopia and the Russian Federation established diplomatic relations in 1898, just after the Battle of Adwa.
+Abiy, who recalled EPRDF’s decision to limit the term of office, said an amendment that would help to limit the term of office for the Prime Minister will be added in the constitution shortly.
+The Water Ministers of Ethiopian, Egypt and Sudan are conducting a joint meeting with the technical committee on the Ethiopian Grand Renaissance Dam.
+The meeting that kicked off today in Addis Ababa will stay for two days.
+Ethiopia’s Water and Irrigation Minister Sileshi Bekele, Sudan’s Minister of Water resources and Irrigation Muataz Musa; and Egyptian Water resources and Irrigation Minister Mohamed Abdel Ati have been attending the meeting.
+The Nobel Committee awarded the prize for Abiy for his efforts to achieve peace and international cooperation, particularly for his decisive initiative to resolve the border conflict with neighboring Eritrea last year, three months after he came to power in April 2018.
+The PM is the 100th winner and was selected from 223 private and 78 organization nominees.
+The 10th criminal bench of the Federal Supreme Court granted police 14 days additional time for further investigation on Abdi Oumer Mohammed, former president of the Somali region and accomplices.
+The lawyers of the defendants contested the request for additional time. However, police requested for the additional time, arguing that the case demands deep investigation.
+The joint forces have taken control of the Zobl mountainous area and other very significant towns including Arjo, Fokissa and Boren.
+The United States Agency for International Development (USAID) has launched a 52 million dollars five year program to help pastoralists in Ethiopia.
+The program called “Pastoralist Areas Resilience Improvement and Market Expansion – PRIME” is jointly designed with global climate change initiative and will be implemented from October 2012 up to 2017 in 36 districts found in Oromia, Afar and Somali regions.
+Ethiopia is building a $4.3 billion, 6,000-megawatt hydropower plant on the Blue Nile River, the main tributary of the Nile River that provides Egypt with most of its water.
+The dam, to be completed by 2017, has raised concerns in Egypt that it will cut supplies of water allocated by accords put in place more than five decades ago.
+The project, known as the Grand Ethiopian Renaissance Dam, is set to be Africa’s biggest hydropower plant when it is built.
+Ministry of Foreign Affairs of Ethiopia (MoFA) has downplayed warns of attack by Somali militant group al- Shabaab, notified by the US government.
+The United States government recently reported to have received threat reports of al-Shabaab’s intent to target the Bole area of Addis Ababa city.
+The humanitarian situation is most acute in the Tigray Region, where 5.2 million are at risk, along with another 534,000 in Afar and 3.3 million in Amhara.
+However, there is still no indication as to when help will arrive after the UN announced on Wednesday that it was forced to suspend aid distribution in the northern Ethiopian town of Kombolcha after gunmen looted its warehouses.
+More than 80 people have been killed in two days of unrest in Ethiopia following the killing of prominent singer Hachalu Hundessa.
+The 34-year-old had emerged as a powerful political voice of the Oromo ethnic group, and had made many enemies during his musical career.
+Ethnic nationalism was kept ruthlessly in check under the Marxist Dergue regime and during the two decades of EPRDF rule that followed.
+The opening of the political space under Mr Abiy has lifted a lid on ethnic tensions.
+Ethiopia's system of ethnic federalism was always going to be vulnerable to politicians playing on atavistic sentiments.
+Many Oromo activists are being held at the Qilinto facility, according to pro-opposition media.
+New York-based Human Rights Watch says that more than 400 people have been killed in clashes with the security forces in Oromia, although the government disputes this figure.
+Ethiopian Prime Minister Hailemariam Desalegn has blamed "anti-peace forces" for the violence.
+Violence between the Amhara and Gumuz ethnic groups left dozens of people dead last month in Amhara and its neighbouring region, Benishangul Gumuz.
+Ethnic violence, typically sparked by land disputes, has displaced nearly three million people across Ethiopia.
+Another issue the prime minister is having to grapple with is unrest within the military.
+The 41st anniversary of the foundation of the Tigray People’s Liberation Front (TPLF) is celebrated in Mekelle through commemoration of the martyrs, panel discussion and other programs.
+The party has urged the young generation to understand the reasons behind the party’s armed struggle and ensure the already started journey of the country towards renaissance.
+The 12th annual meeting of the Tigray People’s Liberation Front (TPLF) concludes meeting re-electing Abay Woldu as a chairperson.
+The meeting, held for six days, also elected Dr. Debretsion Gebremicheal as vice chairperson of the front.
+According to Ambassador Asminew, Ethiopian forces are also given additional responsibility to train Somali forces to establish a strong national army that can conduct operations independently.
+“These efforts will help spread security and stability to all the Somali people,” he said.
+The census, planned to start this month, was postponed to next February due to various technical problems, according to the agency.
+Biratu Yigezu, director general of CSA, told FBC yesterday that preparations are nearing completion to undertake the census after two months.
+Ethiopia and Equatorial Guinea today signed a reciprocal visa waiver agreement for holders of diplomatic and service passports.
+The agreement was signed by State Minister Hirut Zemene and Don Simeon Oyono, Minister of Foreign Affairs of Equatorial Guinea.
+On the occasion, President Dr. Mulatu Teshome congratulated the newly appointed Ethiopian Ambassadors on their appointment and wished a successful tenure.
+President Mulatu noted that the Ambassadors shoulder great responsibility in promoting Ethiopia’s tourism, attracting investment in a bid to support developmental activities.
+The Commercial Bank of Ethiopia (CBE) announced that it is ready to serve the 1 million Ethiopian Diaspora expected to come to their home country for twenty-four hours seven days a week and provide several financial services.
+Speaking to ENA, Commercial Bank of Ethiopia CEO, Abie Sano said the visit of 1 million Ethiopian Diaspora is a good news to the bank and the bank is making preparations to further develop packages and refresh services.
+The bank has launched a booking system called Gate Rooms, which enables the diaspora to book hotels from where they are, the CEO revealed, adding that members of the diaspora who come to Ethiopia could easily make booking, pay, and book online.
+National Bank of Ethiopia (NBE) has introduced a contractionary monetary policy that would be effective as of today.
+A contractionary monetary policy increases interest rates in order to slow the growth of the money supply and bring down inflation.
+This can slow economic growth and even increase unemployment but is often seen as necessary to cool down the economy and keep prices in check.
+Ministry of Mines and Petroleum disclosed that it has earned 513 million USD from export of mines during the last ten months.
+Briefing journalists today, Mines and Petroleum Minister Takele Uma pointed out that the income is remarkable when compared to same period of last Ethiopian year, which was 90 million USD.
+Out of the total revenue, USD 504.7 million was obtained from gold export, he added.
+Inhabitants around the recently inaugurated Genale-Dawa III Hydro-power said the project has opened immense opportunity for them, besides benefiting the country.
+Genale-Dawa III hydropower project, which generates 254 MW, was inaugurated by Prime Minister Abiy Ahmed this week.
+Among the inhabitants residing around the dam, Abdi Haji told ENA that “the power project plays immense role in their lives in terms of road connectivity, irrigation, energy as well as job opportunity.”
+All pluses and other commodities which are trading through the Ethiopian Commodity Exchange (ECX) are set to be mandatory starting from this Ethiopian budget year, according to the authority.
+In an exclusive interview with ENA, ECX Corporate Communications Manager Netsanet Tesfaye said the trading of all pluses through the authority starting this Ethiopian budget year will help combat contraband.
+All stakeholders, including ministries of Revenues and Trade& Industry will follow up the implementation process in accordance with the agreements reached.
+Addis Ababa January 23/2019 Prime Minster Abiy Ahmed said that Ethiopia is working to enhance the engagement of the private sector in order to ensure more inclusive and socially sustainable growth.
+Speaking at the World Economic Forum in Davos, Switzerland, the Premier said that bringing vitality to the economy is part of the sweeping reforms that the country has been undertaking.
+The Premier elaborated to the Forum that the economic reform is aimed at leveraging the collective power of Ethiopians specially, women and youth.
+Turkish investment in Ethiopia is increasing as more companies interested in doing business in the Horn of African country, Turkish Ambassador to Ethiopia Fatih Ulusoy said.
+Ethiopia, the largest investment destination for Turkey in Africa, has attracted close to half of the latter’s investment in the continent.
+In an exclusive interview with ENA, Ambassador Ulusoy said, Turkish foreign direct investment in Ethiopia has continued to increase.
+Ministry of Mines announced that it will be implementing a policy change that will give metal and steel manufactures access to local iron ore in order to produce steel bars.
+Mines Minister Engineer Takele Uma said that the implementation of the new policy will eliminate the struggle manufacturers are facing including lack of raw material and forex.
+We are visiting our manufactures today to discuss this with them and urge them to continue to focus on what matters during this critical time of our historic trajectory and continue our initiative to use our natural resources.
+Tourism Ethiopia Director, Sileshi Girma told The Ethiopian Herald that they have identified 50 potential sites for investment in the coming 10 years in the tourism industry.
+He stated that the participation of the private sector in tourism and hospitality sectors has been good over the past years.
+However, there are challenges such as lack of access to loan from banks and most of the tourism destinations are far from the capital of Ethiopia, he added
+The Soflet Malt which joined the Bole Lemi Indistrial Park with an outlay of 70 Million Euros has finalized preparations to start production on coming March 2021.
+The Soufflet Malt Ethiopia which is a French family-owned business based on collecting and adding value to agricultural raw materials is building malt factory at 10 ha of land in the industrial park.
+Soulfflet Malt Ethiopia has already created production supply chain for 25,000 farmers, and will increase number of beneficiaries to 40, 000 when its factory goes fully operation in the future, the information from Industrial Parks Development Corporation.
+According to Industrial Parks Development Corporation, Soulfflet Malt Ethiopia will have a capacity of producing 100,000 metric tons of malt per annum.
+Ethiopian gold exports surged after the central bank offered higher prices for the metal in a bid to curb smuggling and as part of wider efforts to spur investment in mining.
+Ethiopia’s gold industry is currently dominated by small-scale artisanal miners, but Newmont Corp. and Australia’s Allied Gold Corp. are among the companies exploring for the precious metal in the Horn of Africa nation.
+The government hopes that cleaning up informal mining by channeling gold sales through the central bank is a first step to making the country more attractive to investors.
+The International Monetary Fund (IMF) approved last month a program for Ethiopia of 2.9 billion US dollars.
+The program is aimed at supporting the homegrown economic reform agenda of the country.
+The economic reform is designed to eliminate macroeconomic imbalances and lay the foundation for sustainable and inclusive growth.
+According to IMF, the $2.9 billion program would facilitate Ethiopia’s transition to flexible exchange-rate system.
+The country is importing daily the same amount of fuel as it was in the past days via Djibouti and Sudan with more than 300 fuel trucks, he said.
+The Ministry of Trade and Industry (MoTI) as well as the Ministry of Mines, Petroleum and Natural Gas said they are not authorized to control fuel distribution in the country.
+The Minister said Ethiopia has introduced cadastral-based modern mining licensing and database system to promote investments in the sector.
+The system enables investors to see different investment opportunities, to request for license from where they are living and to pay payments in simple and clear way, he added.
+He stated that the Cadastre System assures conducive environment for investment by building trust and creating closeness among the community, the companies and the government.
+Ethiopia collected some $318 million from the export of flowers and other horticulture products Ethiopian fiscal year, which ended July 7, 2019.
+The Public Relations Director remarked that over a hundred companies have been engaged in the cultivation of flowers, fruit, and vegetables as well as herbs and supply of high-quality products to the international market.
+Ethiopian horticulture products' main export destinations are the Netherlands, Saudi Arabia, UK, USA, Japan, Norway, Germany, UAE, Belgium, and Italy.
+Ethio-telecom has announced new tariff cuts on international voice calls and short text-messaging.
+In a press conference today, CEO of Ethio-telecom, Firehiwot Tamiru, said the company had made 10-40 percent reduction on international voice calls.
+She also announced up to 51 percent tariff cut on international short text-messaging.
+The Ethiopian economy will maintain its growth lead for the East African region according to the latest World Bank report.
+The latest forecast puts Ethiopia at a percentage point behind Ghana.
+The West African nation is forecast to grow at 8.3% as against Ethiopia’s 8.2%.
+“Among East African countries, Ethiopia is likely to remain the fastest growing economy, but growth is expected to soften as it takes measures to stabilize government debt.”
+The addition of Habesha Petroleum, JR-Petroleum Plc, Kernel Oil Trading Plc and Kalub Oil Ethiopia, pushed the total number of oil retail companies in the country to 22.
+JR-Petroleum is the latest entrant among the four companies opening its doors on December 25, 2017.
+The company was established with a 21 million Br capital and is headquartered in Addis Ababa.
+Founded by three partners engaged in distributing fuel from Nile Petroleum under a franchise arrangement, JR currently runs eight filling stations.
+Ethiopia's year-on-year headline inflation crept up to 8.8 percent in June, up from 8.7 percent the previous month, the statistics office said on Tuesday.
+Food inflation slowed to 11.2 percent in June from 12.3 percent the previous month, it said. Non-food inflation was at 6.7 percent in June, up from 4.7 percent in May.
+The Ministry of Trade has disclosed that it has planned to gain about 1.2 billion birr from the export of oilseeds and pulses this year.
+Crop production and Marketing Directorate Director with the Ministry, Mulugeta Muhammed, told WIC that the country has planned to export 98.233 thousand tons of oilseeds and pulses this year and gain the stated amount of income.
+The planned amount of export has increased by 26 percent as compared to the same period last year.
+The drastic increase of Ethiopia’s debt stock has been a source of debate among policymakers, researchers and political analysts in Ethiopia for the last half a decade.
+As the country’s total debt surpassed 50 billion dollars since 2017, the country has become among the most indebted economies in Africa.
+Especially the tendency of the central government to undertake mega projects with finance secured from external creditors, even with a high interest, coupled with the critical foreign currency shortage in the country have weighed negatively on the country’s ability to meet its debt obligations
+Last week, the National Bank of Ethiopia introduced a new rule that forces depositors make a maximum of five transactions per week.
+While this was intended to paralyze illegal money transfer agents and weaken the parallel market, the measure comes with a risk as it could result in a fall in business transactions and create a fear that it would lead to an economic slowdown.
+“Hurting the wider business community just to cripple few illegal money operators is not fair. Of course, weakening the parallel market is a step in the right direction but adopting a radical measure will cause more problems,” said Wujrayib Yibgeta, Vice President of Addis Ababa Traders Forum.
+Given the repercussions of the transaction limit, which some experts refer to as a draconian measure, it is simple to understand how desperate the government is to increase remittance flow, which averaged USD5.7 billion over the last five years.
+A decade ago, ETB17 was equivalent to a dollar. As the years rolled and following the repeated devaluation of the currency in order to boost the international competitiveness of the import-dependent country, the value of the Birr has been reduced by as much as 130%.
+Though this was meant to boost export earnings, while reducing import bills of the country, none of these have been realized so far.
+While the country shipped an average of three billion dollars of goods annually in the last decade, its imports barely averaged 15 billion dollars.
+Accordingly, the MTN Group Ltd. and a consortium led by Vodafone Group Plc, have bid for the licenses.
+Ahmed told The Reporter that the company's bidding document is under evaluation and as soon as it gets the government’s approval, the results will be publicized.
+According to Abayneh, this time, the zonal administration livestock and fishery office is finalizing all the necessary preconditions to relocate people who live in the surrounding areas to other places.
+For instance, Chencha, Dita, Gacho Baba and Bonki are some of the mountainous areas where the farming is taking place.
+Mati Multiplex, the first state-of-the-art cinema house in the country, has launched a plan to expand nationwide with branches across six major regional towns while Bahir Dar becomes the first town outside Addis Ababa to have 3D Cinema facility.
+Although Mekele, the seat of the Tigray Regional State, is the first regional town to host the first branch of the Cinema chain a year ago with 35mm movie screening cinema facility, another regional town Bahr Dar has taken the lead in hosting the 3D Cinema infrastructure outside of Addis Ababa.
+Addressing Climate Ambition Summit 2020, Prime Minister Abiy Ahmed said that Ethiopia has taken bold leadership on climate action by launching its ambitious climate resilient green economy strategy that aspires to build a carbon neutral and resilient economy by 2030.
+Over the last two years, Ethiopia’s green economy strategy has been fully mainstreamed into the recently launched yet 10 year perspective development plan, which runs from 2021 to 2030, Prime Minister Abiy noted.
+According to a statement issued by the Ministry of Water, Irrigation and Energy of Ethiopia, the three countries negotiated on technical issues on the first filling and annual operation of the dam.
+The chair of the previous day meeting recapped the issues on which convergence is reached, including the rules on the first stage filling, volume of environmental flow, guidelines for first stage filling, the drought management rules, rules on dam safety, environmental and social impact assessment studies, and entry into force of the guidelines and rules.
+According to the minister, the harvest expected from 300,000 hectares of land this year would help produce 10 million quintals.
+Even if it was possible to get more produce this harvest season, the flooding in Afar Region obstructed the effort to meet the target, he added.
+Some 90,000 hectares of irrigated land has been covered with wheat, the minister said, adding that best seed, chemical, fertilizer supplies have been properly provided.
+The Korea Forest Service has been expanding collaboration with Ethiopia to restore degraded forests through sustainable agroforestry.
+The latest event was a launch ceremony held on Wednesday for a book “Re-greening Ethiopia” co-published by Korean Forest Service and Ethiopian Ministry of Environment, Forest and Climate Change.
+During the event, a memorandum of understanding was also signed for P4G, the Partnering for Green Growth and the Global Goals 2030 which is an initiative with 12 middle-power partner countries including Denmark and South Korea.
+Ethiopian Environment and Forest Research Institute announced a plan to cover the Abay Gorge areas ranging from Kere Goha to Dejen town.
+Located on the boundary of Oromia and Amhara region, the Abay Gorge is a serios of gorges to a depth of some 1,500 meters.
+A research that will serve as a roadmap for afforestation of the Abay Gorge has been jointly conducted by Ethiopian Environment and Forest Research Institute, Selale University, Debre Markos University and Forest and Climate Change Commission.
+The Ethiopian Soil Information System (EthioSIS) project was launched in 2012 to transform the agriculture sector by improving the fertility of farming soil to support agricultural transformation.
+The system has been supporting agriculture by developing soil fertility maps for more than 18,000 rural kebeles in the country and providing up-to-date soil fertility data as well as recommending the best type of fertilizer for soil in each region, Tegbaru said.
+Geo-hazards are affecting agricultural products and human life in selected areas of Southern Nations, Nationalities and Peoples Region (SNNPR) of Ethiopia, according to Geological Survey of Ethiopia.
+According to the study conducted in collaboration with Czech Geological Survey, areas around Arbaminch, Leku, Dilla and Mejo are highly affected by erosion, floods, landslide and rock falls due to occurrence of ground fissures, high gradient reliefs and intensive deforestation.
+The National Disaster Risk Management Commission warned about a potential flash flood in some parts of the country due to torrential rains in the coming days.
+In a presser he gave today, Deputy Commissioner Damene Darota said that some parts of Amhara, Oromiya, SNNP and Tigray as well as most parts of Gambella regional states are vulnerable to flash flood.
+Areas close to Awash, Baro-Akobo and Nile river basins and tributaries are also exposed to flood risks, he added.
+Several actors and experts in the wildlife sector, including from regional and international organizations partaken on the workshop, which among other things discussed on opportunities and challenges of the wildlife in Ethiopia.
+Professor Masresha Fetene, from the Ethiopian Academy of Science, told journalists that despite its untapped natural resources, the country is facing some challenges in wildlife conservation.
+Kenya’s firefighting helicopter that has the capacity to hold 1200 liters of water starts sprinkling on a blaze that rage the Semein Mountains National Park.
+The helicopter and 12 Israeli wildfire experts have arrived this morning at the national park to support the eradication process of the wildfire raging in the national park.
+As wildfire has been ravaging the Semein national park for a couple of weeks, Ethiopia has called the international community for support to contain and extinguish the blaze.
+Ethiopia's Environmental Analysis conducted by World Bank, Forest, Environment and Climate Change, Finance and Economic Cooperation ministries and Ethiopian Development Research Institute was launched here today.
+According to the Environmental Analysis lack of integration among the sectoral ministries and regional bureaus, problems of value addition in using natural resources and lack of strategy on green industry are identified as the main challenges that hamper effective actions against environmental climate change related actions.
+The Addis Ababa City Administration Environment Protection and Green development Commission said that it has shut down two factories, which it accused of polluting the environment.
+Environment Commission Director with the Commission, Bayu Tola, the two factorie–Hansen Glass Factory and Dire leather factors got closed after they repeatedly failed to warnings to make corrections.
+Government Communication Affairs Office Minister, Bereket Simon, stressed the need to further consolidate soil and water conservation so as to protect the Grand Ethiopian Renaissance Dam from silt and sediment.
+Bereket, who is also secretary of the National Council for the Grand Ethiopian Renaissance Dam Project, said soil and water conservation and natural resource protection should be undertaken in Amhara, Oromia and Benishangul Gumuz states towards the same goal.
+Ethiopia and Djibouti have established a Joint Coordinating Committee in Djibouti to expedite the successful implementation of the plantation of nine million tree seedlings In Djibouti.
+Ethiopia has pledged to provide one billion tree seedlings to the Neighboring countries in its belief that climate change and desertification in the region demands Regional solutions.
+Ethiopia has planted 20 billion trees to build a climate-resilient green economy and assist the Global efforts to respond to the Earth’s climate change and its adverse effects.
+The Ethiopian Metrology Agency said that the heavy rainfall is expected to continue in September, and warned the public over the sudden flooding incidents.
+The weather forecast compiled during the month of August shows that there will be heavy rain in coming months. The Agency advised the people to be cautious of possible sudden flooding.
+Flash floods killed five people in the Ethiopian capital Addis Ababa in the last two days, the city’s Addis ababa city fire and emergency prevention and rescue agency official said today .
+Among the 11 people four were swept away as they tried to cross a river in the Nifas sil Lafto suburbs of the city Hana mariam particular area, Nigatu Mamu, spokesman for the city’s fire and emergency division said.
+Stored agricultural and industrial chemicals at various institutions in Addis Ababa and regional towns are posing health hazard and environmental pollution, experts warn.
+This was disclosed at a three-day training held this week in Addis Ababa on chemical weapons control and chemical safety and security management facilitated by Organization for Prevention of Chemical Weapons (OPCW) for member states.
+In the side line of the workshop, environment experts told The Reporter that with the increasing use of agricultural inputs and the thriving manufacturing sector, the threats of environmental pollution is increasing from time to time.
+Visiting Addis Ababa this week, Sara Terry, senior policy advisor to the Office of Air Quality Planning and Standards under the US Environmental Protection Agency (EPA), has brought her team to initiate the work of air quality management system in the capital.
+Speaking to The Reporter on Friday, Terry said that within the coming two years Addis Ababa is expected to devise a policy to institutionalize air quality management system under the city’s Environmental Protection Authority (EPA).
+Officials of the Guji Zone in the Oromia Regional State has denied plans of transferring the Kenticha Tantalum Mine to youth associations saying that it was “merely an idea to entertain rather than an actionable plan” and that it had no intention of depriving the federal Mining, Petroleum and Biofuel Corporation off its mining concession and processing facility.
+However, according to the head of the zonal administration, Tilahun Warda, the youth residing in the surrounding of the Tantalum Mine are posing series question as to their benefits from the natural resource and said that as long as the Corporation is willing to address this demand, there will be no problem.
+A multi-sectoral stakeholders’ platform joined hands to rescue over 131,000 cattle on the verge of death in Borena zone of southern Oromia.
+These cattle can stand and walk only with human support as deadly drought takes hold in Borena.
+Over 71,000 livestock have already died since the drought began.
+The current drought occurred in Borena, West Guji, Guji, East Bale, West Hararge zones, and it exists as an alert stage in East Hararge and Bale, according to Ketema.
+Excessive level of water at Ethiopia’s giant hydropower dam, Gibe III, has prompted officials at Ethiopian Electric Power (EEP) to commence a controlled release of the water as of the coming week.
+The hydropower plant that entered in to its commissioning phase six months ago was unable to generate in full capacity owing to the low level of water caused partly by the EL Nino induced drought in the country.
+The aftereffects of the drought caused heavy rain falls in many parts of the country that consequently threatened overflow of the Gibe River on top of the dam.
+Sandstorm has hit the city of Dire Dawa, in the eastern part of Ethiopia and its surroundings.
+The sandstorm that hits Dre-Dawa and its surrounding lasts for more than an hour.
+Assistant Prof. Yonas Tadese, a geography lecturer at Dire Dawa University told ENA that the phenomena is the result of a low air pressure that moved to the northern hemisphere.
+Ministry of Agriculture and Livestock Resources warned farmers today to remain vigilant on possible threat of swarm of locusts during this rainy season.
+Briefing journalists, Ministry Plant Conservation Director Zebdios Salato said fragmented swarm of mature locusts have entered parts of the country.
+He assured farmers that the mature locusts do not inflict damage on the crops right now.
+The station, which is constructed in the compound of the agency's Adama branch, is expected to provide data that will help to measure the level of the pollution trends in the city.
+The data will also serve as a vital input for policymakers and stakeholders who work on air pollution and related issues, Abate Getachew, head of the Meteorological Research at EMA told The Reporter.
+The new start-up businesses law and establishment of job creation fund would make Ethiopia preferable for beginners in technology, Dr Ahmedin indicated.
+The State Minister also responded to questions raised by participants.
+The 10 years old Ethiopian Soliyana Gizaw has been named the winner of the 2020 African Code Challenge (AfriCAN Code), a newly launched continent-wide tech competition where young people were invited to create an educational computer game.
+According to organizers Soliyana’s submission called “Mathstainement” won the Pan-African prize leading participants from 54 countries.
+Innovation and Technology Minister, Belete Mola (PhD) has conferred with UK Ambassador to Ethiopia Alastair McPhail on ways of enhancing cooperation between the two countries in the field of science and technology.
+During the discussion, the Minister said Ethiopia and UK have been enjoying a longstanding and close relationship calling for further engagement to deepen the existing ties with multifaceted areas of cooperation.
+The mobile application has been developed by the Consortium of Reproductive Health Associations (CORHA) together with United Nation Population Fund (UNFPA) and the Ethiopian Ministry of Health (MoH).
+While launching the application, Maternal and Child Health and Nutrition Director at Ministry of Health, Dr. Meseret Zelalem noted that in today’s world adolescents and young people rely on their mobile devices as sources of information so that ‘Yenetab Mobile Application’, which is available on Google play store, is proving to be an authentic source of health information with a strong emphasis on adolescent and youth sexual and reproductive health rights.
+Director General of INSA, Dr. Shumete Gizaw has presented the touchless hand sanitizing technology to Prime Minister Dr. Abiy Ahmed.
+Having tested the automatic technology, Prime Minister Dr. Abiy described the innovation as an encouraging move calling for further advancements so as to fight the coronavirus pandemic avoiding physical contacts.
+Coordinator of the innovation unit in the agency, Biruhtesfa Mulugeta said activities are well underlay to increase access of such touchless technologies in the country as a part of an innovating response to the pandemic.
+The third in a series of competitions, Solve IT 2020 will be promoted across 15 cities in Ethiopia and seeks to support youth across the country to develop innovative projects, promote entrepreneurship, and solve local problems through technology.
+Solve IT 2020 will be implemented by iCog Labs, with sponsorship from the US Embassy, JICA Ethiopia, the Federal Small and Medium Manufacturing Industry Promotion Authority, and the Federal Urban Job Creation and Food Security Agency.
+Offering degrees in Business Administration and Computer Science at the graduate level, the American College of Technology (ACT) has been inaugurated in the capital.
+The school located in the ICT Mart building in Arat Kilo behind Tourist Hotel came about an investment of 42 million Birr to help the “local Information Communication Technology capacity, as part of Ethiopia’s development agenda,” said Asmamaw.
+Inaugurating the delayed Genale Dawa (GD-III) hydroelectric power project on Tuesday Prime Minister Abiy Ahmed (PhD) made an appeal to local investors to build the next phase of the hydroelectric project GD-6, in the same river basin that requires an estimated financial outlay of USD one billion.
+According to the PM, the latest offer is issued for the first time to the private sector to get involved in the power production sector.
+Facebook is teaming up with the Government of Ethiopia to help inform millions of Ethiopians with what it says will be “valid and up to date information on COVID–19.”
+To that end, there is to be a WhatsApp Business API that will be used as a hotline with an online “chatbot”.
+In addition, the new partnership is to have a number of components, including supporting health practitioners for access to information, supporting fundraisers, removing harmful information that it deems is wrong.
+Nebiyu told The Reporter that the modern and efficient technological device to be installed in major streets of Addis Ababa are intended to give the exact locations of tourism spots both for foreign and local tourists.
+He also noted that such steps would boost the city’s revenue from this sector by introducing new facilities to the existing tourism and cultural resources.
+“What we need to do first is try to maximize the promotional activities and modernize the service,” said Nebiyu.
+The state-owned telecom monopoly, Ethio Telecom, is fighting a telecom fraud committed by individuals using illegally imported VSATs and other telecom gadgets that bypass the company’s satellite network.
+The individuals get payments for their services from foreign telecom companies which was supposed to be made to Ethio Telecom.
+The state-owned monopoly is reportedly losing millions of dollars due to the telecom fraud.
+Ethiopian researchers have introduced a new species of sorghum seed that could give yield multiple times per year.
+Once the seed is sown, it gives output two to three times per year for 20 generations, if it gets water continuously, said Minister of Science and Technology that supports the research.
+However, if it does not get water, the seed will give output once in year during the rainy season, said the Minister Eng. Getahun Mekuria.
+Former National Aeronautics and Space Administration (NASA) astronaut, Charles Bolden, gave a lecture today to space enthusiast students drawn from the Ethiopian Space Science Society (ESSS) and different schools in Addis Ababa.
+The former astronaut told ENA that he was in Ethiopia in 2014 when he had discussions with government officials.
+HubCity Live- Ethiopia brings a conceptual master plan to build the real “WAKANDA” in Bahir Dar city of Ethiopia.
+The ministry, the federal government and Amhara regional government work together for the realization of the project that projected to cost two to three billion US dollars, he further stated.
+The project is expected to be completed eight to ten years.
+Speaking of the award, Ethiopian Airlines Group CEO Tewolde GebreMariam quoted as saying the award is “a testimony to the leading role that Ethiopian Cargo & Logistics Services is playing to the socio- economic development in Africa and the rest of the world with safe, secure, dependable and competitive cargo and logistics services.’’
+The Ethiopian Cargo and Logistic Services is Africa’s largest network cargo operator and multi-award winner.
+Ethiopia’s earth observatory satellite will be launched into space by November 2019 as preparations are finalized, according to Ethiopian Space Science and Technology Institute.
+In an exclusive interview with ENA, Institute Director-General Solomon Belay said “we have completed about 95 percent of the satellite, and checking and launching will be conducted after September.”
+Speaking at the 5th ICT National Innovation Competition Award Ceremony and Mini Exhibition Event held today, State Minister, Getachew Negash, noted that the government has paid due attention to ICT through support, inspiration and creation of internationally competent ICT engineers to excel the sector.
+Negash noted that the government highly encourages and motivates women to join the sector.
+Such actions will be continued in a well comprehended way in the future.
+The LG-KOICA HOPE TVET College has graduated 51 students in 3rd and 4th levels on Saturday.
+Head of KOICA in Ethiopia, Doyong A, also said that LG and KOICA (Korea International Cooperation Agency) cooperatively realized the establishment of the college and will strengthen supporting the college to make it center of excellence in information technology and electronics field of studies.
+The second SolveIT! a nationwide innovation competition for Ethiopian youths, has been launched in Addis Ababa last Friday.
+Sponsored by U.S. Embassy and the Japan International Cooperation Agency (JICA), the program helps Ethiopian youth to develop tech-based solutions to address community challenges.
+Mr. Tewolde GebreMariam, Group CEO of Ethiopian Airlines, says, “We are glad to introduce inflight internet connectivity with the latest broadband satellite technology, Ka-band, offering our passengers seamless digital experience as they fly Ethiopian.
+The launch of the onboard wi-fi internet is part of our relentless efforts to further add to passengers’ comfort keeping pace with the technology of the day.
+As customer-centric airline, we will remain focused on continuous service excellence, taking advantage of emerging technologies and infrastructure.”
+Huawei installed the up-to-date telecom equipment in the AAU pharmacy campus for educational purposes. After 3 years’ know-how transfer, Addis Ababa University will gain 100% ownership of the ICT Practice Center.
+The first to East Africa, the 2.1 million USD investment of the project includes a donation scope of 1.9 Million USD worth of equipment for training and demonstration, and the Train the Trainer program to Addis Ababa Institute of Technology (AAiT) teaching staff.
+Prime Minister Abiy Ahmed has handed over the national science, technology and innovation award to 194 winners today.
+Of the total winners 15 are women.
+Some 1,887 persons including today’s awardees have received the science, technology and innovation award since its commencement in 2010.
+Director-General of INSA, Dr. Shumete Gizaw, for his part, said the discussion was focused on capacity building, technology, and system development to strengthen South Sudan’s information and cybersecurity.
+During the discussion, the need to closely work together to ensure information and cybersecurity was accentuated.
+In addition, the launch of Ethiosat will offer Ethiopians a larger offering of both local and relevant international content in the future.
+Fissehazion said, “We believe consolidating all Ethiopian TV channels and broadcasting them from one orbital position will fuel growth in the Ethiopian media sector, as local networks will now be able to easily expand their audience reach.
+This will foster healthy and growing advertising markets, which will result in a greater variety of content, and more localised content.”
+Ethiopia has launched its first-ever remote sensing satellite into space on 20 December 2019.
+The 72kg satellite of Ethiopia was developed in collaboration with the Chinese Academy of Space Technology.
+Twenty one Ethiopian engineers got training in China and were involved in the design and development of the satellite.
+This Multi-Spectral Remote Sensing Satellite is named Ethiopia Remote Sensing Satellite-1 (ETRSS-1).
+Prime Minister Abiy Ahmed yesterday announced preparation to award the second new nationwide telecom license with the necessary policy adjustment.
+In 2018, Prime Minister Abiy’s administration announced commitment to liberalize the telecommunication sector and opened it up to domestic and foreign investments.
+He called the decision “a major policy shift in Ethiopia”
+Canadian Physicians for Aid and Relief (CPAR) and Global Affairs Canada are set to spend approximately 110 million Birr (4.1 million CAD) to help Ethiopia with sexual reproductive health (SRH) of women and adolescents.
+This is to be a four year project and is to support Ethiopia’s priority in helping improve its national curriculum.
+The project is to be in the Amhara and Oromia Regional States and will place Canada’s foreign agenda of feminism at forefront and will look at gender discrimination in areas of early and forced child marriage, female genital mutilation, and early pregnancy.
+Inferior quality salt with low content of iodine produced traditionally in the Afar Regional State is flooding the local market, it was learnt.
+The government has enacted a law that compels salt producers to iodize the salt.
+The Ministry of Health in collaboration with UNICEF has been assisting the traditional salt producers associations to build their capacities so as to enable them to iodize the salt.
+The Ministry of Health of Ethiopia has recommended that the postponed general elections can be conducted given the public’s awareness in the means of transmission of the coronavirus pandemic as well as the capabilities created in the country to produce masks and hand sanitizers.
+In addition to recommending holding the elections by taking the necessary precautions, the Ministry also suggested economic and social activities be restored with proper precautions taken to prevent the spread of the virus.
+Hence, such gatherings should allow enough ventilation, maintain social distance, mandatorily use face masks, enforcing frequent hand washing and other necessary measures.
+After discovering one, Ahmedin Shafi, who was caught red handed while producing foods, beverages and preservatives using outdated ingredients this week, the Ethiopian Food, Medicines and Health Care Administration and Control Authority (FMHCACA) have issued an order to the company to recall all of its products from the market although some of the items produced by the food processor are still sold in some markets outside of Addis Ababa.
+Over the past fiscal year, as part of its mandate, the authority said that it has disposed 600.8 million birr worth of drugs, medicine, cleaning products as well as foods and food ingredients which are declared outdated.
+The illegal dental product,“Herbal Colgate”, was produced by counterfeiting a similar productproduced in Ethiopia and registered by the Authority: Dentplus.
+DentPlus which is a registered product with FMHACA and produced by a company called Virginia Pharmaceutical Plc; an Ethiopian based company owned by local investors.
+The Authority urged the public not to use “Herbal Colgate” as well as inform the concerned offices in case they notice the products being sold.
+However, due to the outbreak of COVID-19 and other challenges, the malaria eradication campaign is not being implemented as expected, the State Minister said.
+Dr Dereje underscored the need to identify strengths and weakness observed in the past and find ways to deal with them to eliminate the disease by 2030.
+The Health Ministry yesterday graduated cutting edge medical laboratory machines in the presence of senior government officials.
+Molecular testing machines inaugurated in the premises of St. Paul Medical Millennium Medical College and Ethiopian Public Health Institute are said to have a capacity of testing a total of 4,500 samples of TB, Hepatitis B, Hepatitis C, cervical cancer, various sexually transmitted diseases, and other cases in 24 hours.
+On the occasion, the Health Minister, Dr. Lia Tadesse said the government along with various partner agencies has been undertaking different initiatives to enhance the laboratory quality and capacity nationally.
+The medical supplies are part of the project entitled “Improving the quality of health care provided to newborn babies in two zones of Tigray and SNNP regions, Ethiopia,” launched in March 2020.
+It covers 61 health centers, 229 health posts, and six primary hospitals in the two regions.
+An estimated 94,000 pregnant women and newborn babies are expected to benefit from the project.
+Minister of Health Dr. Lia Tadesse visited the reform activities of Felegehiwot Hospital of Bahir Dar City including Clean and Save Hospitals (CASH) project and Electronic Health Records implementation and the efforts to make the service areas patient centered.
+She expressed gratitude to I thank the hospital leadership for their commitment to effectively implement the reform program.
+Meanwhile, the 29th International Day of Persons with Disabilities has been marked in Bahir Dar yesterday under the theme “Building Back Better: toward a disability-inclusive, accessible and sustainable post-COVID-19 World”.
+Deputy Prime Minister Demeke Mekonnen has held discussion with Director General of the World Health Organization (WHO), Dr Tedros Adhanom.
+The discussion was held on the sidelines of the first Global Refugee Forum opened in Geneva, Switzerland yesterday.
+During the discussion, Dr Tedros commended Ethiopia’s leadership in health for all program and its efforts to prevent non-communicable diseases (NCDs).
+A high level event entitled “Impact for good; A cross-sectoral dialogue for strengthening partnership between Africa, Israel and the world Jewry” was held today here in Addis Ababa.
+In his opening remarks, Israeli President Reuven Rivlin said that participants of both countries were aspiring to see a joint future to ensuring common concerns as food security, public health, infrastructure and energy.
+Noting partnerships engender reliable changes; President Rivlin said “the agreements inked today will set forth to the ever growing ties between the two countries in addressing challenges in health, education and energy in particular”.
+The Ethiopian Public Health Institute (EPHI) announced today that the rapid spread of COVID-19 across the country, the positivity rate, mounting severe cases and high death rates are exceedingly concerning.
+EPHI Emergency Operation Center Deputy Incident Manager, Dr. Mikyas Teferi said 227 people have died due to the COVID-19 pandemic during the past week alone.
+Severe cases that need special Intensive Care Unit treatment in centers are also exponentially increasing and the pandemic’s positivity rate has reached 9 percent, he added.
+Ethiopia announced an immunization campaign to vaccinate more than 7 million Children against polio next week, according to Ethiopian Public Health Institution.
+The four-day campaign will take place in Oromia, Somali, Southern Nations, Nationalities, and Peoples’ Region (SNNPR), Harari regional states as well as in Addis Ababa and Dire Dawa city administrations.
+Ethiopian Public Health Institution (PHI) Deputy Director-General, Aschalew Abyneh told journalists today that the regions and city administrations are selected based on an assessment conducted throughout the country in December 2019 to see the prevalence of the disease.
+The campaign is part of the on-going efforts to fight polio in the country, according to him.
+Sahlework arrived today in Afar Regional State’s capital Semera to mark the national HIV/AIDS Day where discussions with various stakeholders are expected to be undertaken.
+President Sahlework, who is also Secretary of the National HIV/AIDS Council, stated that the disease over the last 15 years has caused wide range of damages including social and economic.
+Due to the attention given, the prevalence of HIV/AIDS had been declining, Sahlework said, and pointed out “however, the disease is starting to be pervasive again because of the negligence among the leadership and the public.”
+Yellow fever epidemic has occurred in Wolayita Zone of the SNNPR, according to Ethiopian Public Health Institute.
+Laboratory test conducted on blood specimen sent to Dakar, Senegal, has revealed the existence of yellow fever causing virus in the specimen, the institute stated in a press release it sent to ENA.
+Some 35 citizens were suspected of carrying the disease during the last 3 months, it pointed out.
+A national technical team headed by the institute and composed of experts from Ministry of Health, Pharmaceuticals Fund and Supply Agency, WHO, UNICEF and Center for Diseases Control is preparing swift preventive measures and control mechanisms to effectively stop the epidemic.
+Ministry of Health has launched integrated measles, Vitamin A, and de-worming campaign for displaced people in Gedeo Zone of Southern Nations, Nationalities and Peoples Region.
+The measles vaccination campaign targets 928,000 children aged 6 months to 15 years among the internally displaced and host communities in Gedeo Zone.
+More than 500,000 USD has been allocated from the United Nations Central Emergency Response Fund (CERF) towards supporting the preventive measles campaign, it was learned.
+Dlamini-Zuma told the executive council of the 54-member body, meeting at the bloc’s headquarters in the Ethiopian capital Addis Ababa, of the urgent need to “craft a united, comprehensive and collective African response” to the outbreak.
+The meeting came as hopes rose of a potential vaccine to provide temporary shield against Ebola.
+A novel vaccine tested so far only on monkeys provided “completely short-term and partial long-term protection” from the deadly virus, researchers reported in the journal Nature Medicine.
+The Intergovernmental Authority on Development (IGAD) and Ethio-American Doctors Group, Inc. (“EADG”) have signed a Memorandum of Understanding agreeing to locate the Regional Cancer Center of Excellence (“RCCE”) at the hospital and medical village complex being built by EADG in Addis Ababa, Ethiopia.
+According to World Health Organization report (2008), 63% of global cancer death, or 56% of new cancer cases, are in the developing world.
+Excluding skin cancer, 50% of the 10 Million people diagnosed with cancer annually live in developing countries.
+The external assessment team that conducted the final Polio outbreak assessment in Ethiopia on 8-12 June 2015 confirmed that Ethiopia has successfully interrupted polio transmission.
+This encouraging conclusion was received nearly two years after the outbreak was confirmed in the Horn of Africa and outbreak activities initiated to respond to and interrupt Polio transmission.
+Honorable Dr. Kebede Worku, State Minister of Health, welcomed the the assessment team’s conclusions and recommendations, and assured the team that the Ministry will continue to implement its Immunization Program with due consideration of the recommendations to strengthen the immunization and surveillance system to sustain the achievements in polio eradication.
+Canada is contributing $30 million to several United Nations agencies and non-governmental organizations working to provide emergency humanitarian assistance to millions of people in drought-stricken in Ethiopia, federal minister of international development and La Francophonie announced Thursday.
+Canada’s funding for Ethiopia will help meet critical food, health and nutrition, and water and sanitation needs in response to the deteriorating situation throughout the country, the document said.
+The money Care will receive from the federal government will be spent on meeting the immediate humanitarian needs of drought-affected families in the West Hararghe zone of Oromiya state, he said.
+The Ethiopian Minster of Health, Dr. Kesetebirhan Admasu has been nominated by the co-chair of the Bill and Melinda Gates foundation, Mrs. Melinda Gates for the 120 under 40 awards.
+The award which launched on 26 September, 2016 recognizes and highlights the achievements of the next generation of family planning leaders worldwide.
+Commenting on the work of Dr. Kesetebirhan on the nominee page, Mrs. Gates described him as a tireless advocate for family who has been instrumental to the training of various family planning service providers in Ethiopia.
+“In Ethiopia, progress in fighting malaria has contributed to the remarkable reduction in overall mortality among children under five."
+Through PMI, hundreds of millions of people have benefited from protective measures and hundreds of millions more have been treated for malaria.
+In Ethiopia, PMI has procured about 20 million insecticide treated bed nets, 9 million rapid diagnostic tests, and more than 15 million treatments to prevent malaria.
+In 2011, all the regions in the country except the Somali Region were validated for MNTE.
+The 2011 validation mission made recommendations that would see the Somali Region progress to MNTE over time.
+The recommendations were implemented especially corrective vaccination campaigns against tetanus in 2016.
+Deputy Health Minister Dr. Dereje Duguma underscored that the delta variant Coronavirus is currently causing a devastating crisis in Ethiopia.
+Dr. Dereje exclusively told FBC that number of new confirmed cases, intensive care patients and death tolls from the delta variant are alarmingly increasing putting socio-economic situation at stake.
+Lack of adherence to precautions set to curb spread of the virus among the community and poor performance of preventive and control activities have contributed to an alarming increase of transmission of the pandemic .
+Prevalence of unsafe social gatherings are also negatively contributing to the intensification of the pandemic, he noted.
+Ministry of Health stressed the need for Health Professionals Competency Assessment and Certification to enable the community get access to quality health care services.
+In a press conference held today, State Minister of Minisry of Helath Alemtsehay Paulos said the country has resumed evaluation and certification of health care professionals which was stopped due to the pandemic.
+Evaluation aims to bridge skill gaps in health workers thereby realize quality services in the sector, Alemtsehay noted.
+The state minister noted that the evaluation process deals with issuance of certification for first degree graduates who pass the required examinations and get qualified for standards put in place to improve the service delivery.
+Ministry explained that the system helps screen out professionals who have skilled gaps, and help them get qualified through practical professional assessment.
+President of the Ethiopian Islamic Affairs Supreme Council, Mufti Omer Idris in his goodwill message of the celebration of Mewlid urged the Muslim community to enhance their support to people who are affected by natural and manmade problems in the country.
+The day was particularly marked in Addis Ababa at the Grand Anwar Mosque with various religious activities in the presence of religious scholars, residents of the city and government officials.
+Tourists who attended the festivity expressed their happiness with the peaceful the celebration despite that fact that the country is in state of emergency.
+They expressed their suspicion of instability before their arrival and also witnessed that the country is in calm and peaceful situation and suitable for touring.
+Irrecha, a thanksgiving festival of the Oromo people, has been celebrated at Hora Finfine in Addis Ababa today.
+The Oromo people celebrate Irrecha to thank Waqa (God) for the blessings and mercies they have received; and also to welcome the new season of plentiful harvests after the dark and rainy season associated with nature and creature.
+Ashenda is a unique religious and traditional festival celebrated every year in Tigray and Amhara Regional States between 16 to 21 August.
+Ashenda is a Tigrinya word meaning ‘’tall green grass that estimates around 80–90 centimeters minimum height.
+In the tradition of this religious festival, blades of grass are strewn on the floors of homes and shops as a kind of welcome mat.
+Unmarried girls and young women skillfully wove the grass into a bunch and wear them at their back while dancing on the occasion.
+Abune Paulos, who died on August 16 at the age of 76 after an illness, was the patriarch of Ethiopia’s Orthodox Church since 1992, when he was elected to the highest order of the denomination.
+His Holiness, Abune Paulos was also president of the World Council of Churches.
+Prime Minister Abiy Ahmed called on Muslims to remember and practice the teachings of Prophet Muhammad while celebrating his birth.
+In a message he extended in connection to the celebration of the birth of the Prophet, Abiy called on Muslims to practice what the Prophet has taught while celebrating the festival known as Mawlid.
+Mawlid, the birth of the Prophet, is mainly celebrated with prayer, reading the Quran, singing spiritual songs that honor the Prophet, and offering food clothes to the poor.
+Abiy noted that the Prophet taught that the world need four pillars to survive – teaching of the wise, justice of the elderly, prayer of the good and courage.
+Religious fathers serving at Lailbela Rock-hewn churches appreciated the visit of French President Emanuel Macron and requested speedy renovation of the historical site.
+After visiting the Lalibel Rock-hewn churches on Tuesday, President Macron had pledged to give technical and financial support for the renovation of the churches.
+Some religious fathers who attended the welcoming ceremony for the president told ENA that urgent restoration is needed for the churches which are severely damaged.
+Megabi Haylat Semayat-Semere, a spiritual songs teacher, said he is very happy that the president paid visit to the site; and urged the governments of Ethiopia and France to cooperate and respond to the urgent need.
+The newly established Japan-Korea-Ethiopia Friendship Association held a concert in Tokyo, Japan, with the view to strengthening the people-to-people relationship among the countries.
+Speaking at the concert which took place on January 14, 2021, Ethiopia’s Ambassador to Japan, Kassa Teklebirhan said the formation of the association would strengthen the people-to-people relation among the three countries and expressed the embassy’s readiness to work together with the association to achieve this goal.
+According to a statement from the Ethiopian Embassy in Tokyo, he also called on members of the association to visit Ethiopia and explore the vast tourism and investment potentials of the country.
+French National Order of Arts and Letters was bestowed upon the celebrated Ethiopian musician, Mulatu Astatke, today for his distinguished contributions.
+French Culture Minister, Franck Riester said during the award giving ceremony that Mulatu has uplifted music to another level by combining Ethiopian and another melodies.
+“His innovative contribution to music, particularly jazz, has earned him a global prestige,” he added.
+Mulatu Astatke is an Ethiopian musician and arranger considered as the father of Ethio-Jazz.
+Six delegates representing Ethiopia have finalized preparations to partake in the Cannes film festival including model and actress, Gelila Bekele as well as Film producer Mehret Mandefro.
+Upon returning from Cannes, Tourism Ethiopia will establish a local working group to study the potential of the film industry market as a site for international co-production beyond job creation, she pointed out.
+The working group will also produce a case study report that lay out the business for targeting the film industry as a job creation sector, she indicated.
+Tewodros Kassahun (Teddy Afro), Ethiopia’s best selling artist, controversial, often times poetic, at all times talented, released his long awaited album – Ethiopia – this week.
+It has since shot to number 1 in Billboard’s World Album chart – a milestone for Ethiopian music.
+At home, relaxed, uplifting and vulnerable at all the same time, he hosted Samuel Getachew and Dawit Endeshaw of The Reporter as he opened up on his family, career, Ethiopia and what it means for him to be loved by millions of people around the world.
+Prime Minister Abiy Ahmed has appreciated all those involved in organising a memorial concert in honour of Tilahun Gessesse.
+The organizer contributed more than 80 million birr proceeds collected towards the ‘Dine for Ethiopia’ initiative.
+“Thank you for leaving an indelible print on Ethiopia’s development,” the Prime Minister tweeted.
+This is the second installment of African Film Week, the first launched in 2016 with the African Union Culture Department.
+The Film Week hopes to bring African countries closer by showcasing each other’s works, forming a shared experience and creating opportunities for storytellers.
+Leul Shoaferaw, local filmmaker and founder of Eerie Productions Inc., states the week is a tremendous platform to introduce the best of African films to the Ethiopian audience and filmmakers.
+“I believe this festival will expand my regional and international professional outlooks, nurture my creative capacity and inspire to contribute to the African cinema portfolio.”
+One of the uprising rappers, Lij Michael, is scheduled to perform on May 21 at Bole Fana Park.
+At this concert Lij Michael will be featured with Michael Belayneh.
+Organized by Yorka event organizer this concert is entitled “Addis Concert”.
+This concert focused on having a mini festival in introducing the best album, best singles and also best DJs in the country.
+They chose Lij Michael as their debut concert since his album entitled “Zare Yihun Nege” was well accepted among fans.
+Especially his single “Zemenay Marye” was able to capture audience ears easily.
+Mihret Dawit’s clay works exhibition was presented on April 21 at Asni Gallery.
+The versatile artist who is highly drawn about three dimensional forms has been initially experimenting with materials such as gypsum and cement to create sculptures.
+Later she moved on to recycled paper, cardboards and bottles.
+“I was not fully convinced with the results until I tried my hand on clay. I must say it was love at first touch. Clay is a material that speaks to me. I am able to express my ideas, emotions and thoughts through it,” read the artist’s statement
+Situated at the Gullele Botanic Gardens, the festival features a wide range of activities for first-time campers, festival goers or seasoned outdoor enthusiasts.
+According to the Haileab Meressa, the organizer, Paugmé Shir-shir, provides a perfect opportunity to get out in fresh air, away from the grasps of technology and escape the hustle bustle of daily life, all in the great outdoors.
+This monthly Paugmé Shir-shir event usually involves two days spent venturing off into the surrounding hillsides for various outdoor adventures and one night spent camping under the stars.
+March 2018 was a big year for circus in Ethiopia as the second edition of the African Circus Arts Festival came to town.
+Thousands gathered to attend the spectacle.
+11 circus troupes from across the continent joined the festival to showcase their works.
+Inside the largest circus tent to ever be erected in the country, the lights dimmed to welcome the South African troupe Zip Zap.
+As the trapeze artist swung from a hanging horizontal bar, the crowd gasped, held their breath as she flew up into the air and collectively exhaled once she landed safely on the ground.
+Ethiopian Muslims all over the country are celebrating the Al Maulid Al nabawi or Prophet Mohammed’s Birthday with various religious events.
+In the capital, Addis Ababa, the Muslim Community celebrated Al Maulid Al Nabawi at the Grand Mosque with prayers and spiritual events commemorating the birth of Prophet Mohammed.
+Jimma, Hawassa and Dessie towns have also witnessed colorful celebration of the Eid al-Adha festival with both outdoor and indoor religious events.
+Eid al-Adha is the feast of obedience and sacrifice that remembers the willingness of Prophet Ibrahim to sacrifice his son Ibrahim based on a call from God (Allah).
+The Ethiopian Orthodox Church Religious leaders and the clergy held prayers and masses at the Holy Trinity Church in the capital Addis Ababa commemorating the Holy Maundy.
+Religious fathers and some clergy, while observing the holly day, made supplication to God to save the world from the coronavirus (COVID-19) pandemic.
+Ambassadors of Iran, Saudi Arabia, Luxembourg, Norway, Finland, North Korea, Bangladesh, Russia, Australia, Venezuela, Czech Republic, among others, and a number of diplomats of several countries were in attendance of the event.
+Some of the Ambassadors contacted by FBC said that the art exhibition is an exemplary event in promoting image of Ethiopia and enhancing its relationship with several countries in the cultural and people to people relationship.
+According to Tourism Ministry, the celebration begins on September 22 to entertain assorted events including visiting Ethiopia’s rich cultural, historical, and natural attractions.
+Various sport competitions, exhibitions and symposiums are also scheduled events of the festival.
