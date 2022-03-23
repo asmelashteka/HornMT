@@ -1,6 +1,6 @@
 # HornMT 
 
-The `HornMT` repository contains data and the associated metadata for the project [Machine Translation Benchmark Dataset for Languages in the Horn of Africa](https://lesan.ai/benchmark). The goal is to create a multi-way parallel corpus that will serve as a benchmark to accelerate progress in machine translation research and production systems for languages in the Horn of Africa.
+The `HornMT` repository contains data and the associated metadata for the project [Machine Translation Benchmark Dataset for Languages in the Horn of Africa](https://lesan.ai/benchmark). It is a multi-way parallel corpus that will serve as a benchmark to accelerate progress in machine translation research and production systems for languages in the Horn of Africa.
 
 
 ## Supported Languages
@@ -64,7 +64,7 @@ Below is an example row.
    "data":{
       "eng":"The World Meteorological Organisation reports that the ozone layer is damaged to its worst extent ever in the Arctic.",
       "aaf":"Baad Metrolojih Eglali Areketekeh Addal Ozonih qelu faxe waktik lafetle calat biyakisem xayose.",
-      "amh":"የአለማ የአየር ንብረት ድርጅት በአርክቲክ አካባቢ ያለው የኦዞን ምንጣፍ ከፍተኛ ጉዳት እንደደረሰበት አስታወቀ፡፡",
+      "amh":"የአለም የአየር ንብረት ድርጅት በአርክቲክ አካባቢ ያለው የኦዞን ምንጣፍ ከፍተኛ ጉዳት እንደደረሰበት አስታወቀ፡፡",
       "orm":"Dhaabbanni Meetiroolojii Addunyaa baqqaanni oozonii Arkiitik keessatti gara sadarkaa isa hamaa haga ammaatti akka miidhame gabaase.",
       "som":"Ururka Saadaasha Hawada Adduunka ayaa ku warramaya in lakabka ozoneka ee Ka koreeya dhulka baraflayda uu waxyeelladii abid ugu darnaa soo gaadhay.",
       "tir":"ውድብ ሜትሮሎጂ ዓለም ኣብ ኣርክቲክ ዝርከብ ናሕሲ ኦዞን ኣዝዩ ብዝኸፍአ ደረጃ ከምዝተጎድአ ሓቢሩ፡፡"
@@ -81,28 +81,32 @@ Below is an example row.
 
 ## Team
 
-### Afar 
+
+### Translation Team
+
+
+#### Afar
 
 - Mohammed Deresa
 - Yasin Nur
 
-### Amharic
+#### Amharic
 
 - Tigist Taye
 - Selamawit Hailemariam
 - Wako Tilahun
 
-### Oromo
+#### Oromo
 
 - Gemechis Melkamu
 - Galata Girmaye
 
-### Somali 
+#### Somali
 
 - Abdiselam Mohamed
 - Beshir Abdi
 
-### Tigrinya 
+#### Tigrinya
 
 - Berhanu Abadi Weldegiorgis
 - Michael Minassie
